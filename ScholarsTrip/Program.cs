@@ -19,7 +19,16 @@ namespace ScholarsTrip
 
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
+            .ConfigureAppConfiguration(SetupConfiguration)
                 .UseStartup<Startup>()
                 .Build();
+
+        private static void SetupConfiguration(WebHostBuilderContext ctx, IConfigurationBuilder builder)
+        {
+            // Remove default configuration options
+            builder.Sources.Clear();
+
+            builder.AddJsonFile("appsettings.json", false, true);
+        }
     }
 }

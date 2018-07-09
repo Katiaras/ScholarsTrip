@@ -28,6 +28,8 @@ namespace ScholarsTrip
         {
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<ScholarsTripDbContext>(options =>
+                options.UseSqlServer(Configuration.GetConnectionString("ScholarsTripConnectionString")));
 
             services.AddIdentity<ApplicationUser, IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>()
@@ -35,7 +37,7 @@ namespace ScholarsTrip
 
             // Add application services.
             services.AddTransient<IEmailSender, EmailSender>();
-
+            services.AddTransient<ScholarsTripSeeder>();
             services.AddMvc();
         }
 
@@ -63,6 +65,16 @@ namespace ScholarsTrip
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+
+            if (env.IsDevelopment())
+            {
+                // Seed the Database
+                using(var scope = app.ApplicationServices.CreateScope())
+                {
+                    var seeder = scope.ServiceProvider.GetService<ScholarsTripSeeder>();
+                    seeder.Seed();
+                }
+            }
         }
     }
 }

@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using ScholarsTrip.Models;
+using ScholarsTrip.ViewModels;
 
 namespace ScholarsTrip.Controllers
 {
@@ -17,16 +18,28 @@ namespace ScholarsTrip.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
 
             return View();
         }
 
+        [HttpGet("contact")]
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
 
             return View();
+        }
+
+        [HttpPost("contact")]
+        public IActionResult Contact(ContactViewModel model)
+        {
+
+            if (ModelState.IsValid)
+            {
+                ViewBag.UserMessage= "Email Sent!";  
+                ModelState.Clear();
+            }
+
+            return View(model);
         }
 
         public IActionResult Error()
