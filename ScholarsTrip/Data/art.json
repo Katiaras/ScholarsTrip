@@ -1,20 +1,5002 @@
 [
   {
-    "Category": "Fairy Tales",
-    "Size": "BIG",
-    "Price": 32,
-    "Title": "Myths of Aisop",
-    "DateReleased": "10/7/2002",
-    "Author": "John",
-    "AuthorId": 3
+    "Category": "Comedy|Romance",
+    "Price": 105.91,
+    "Title": "Tune in Tomorrow...",
+    "Author": "Nanine Wharf",
+    "AuthorId": 1,
+    "DateReleased": "1/26/1674",
+    "NumberOfPages": 167,
+    "ImageUrl": "http://dummyimage.com/220x153.bmp/5fa2dd/ffffff"
   },
   {
-    "Category": "Fairy Tales",
-    "Size": "BIG",
-    "Price": 32,
-    "Title": "Myths of Aisop",
-    "DateReleased": "10/7/2002",
-    "Author": "Mike",
-    "AuthorId": 4
+    "Category": "Drama",
+    "Price": 127.28,
+    "Title": "From the Clouds to the Resistance (Dalla nube alla resistenza)",
+    "Author": "Stan Povey",
+    "AuthorId": 2,
+    "DateReleased": "3/19/1937",
+    "NumberOfPages": 102,
+    "ImageUrl": "http://dummyimage.com/189x174.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama|Horror",
+    "Price": 107.35,
+    "Title": "Rocking Horse Winner, The",
+    "Author": "Annmaria O'Rowane",
+    "AuthorId": 3,
+    "DateReleased": "2/17/1844",
+    "NumberOfPages": 185,
+    "ImageUrl": "http://dummyimage.com/239x214.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 116.15,
+    "Title": "Wittgenstein",
+    "Author": "Marjie Laurencot",
+    "AuthorId": 4,
+    "DateReleased": "1/9/1661",
+    "NumberOfPages": 176,
+    "ImageUrl": "http://dummyimage.com/172x144.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama|Romance",
+    "Price": 88.71,
+    "Title": "Elusive Summer of '68, The (Varljivo leto '68)",
+    "Author": "Demetris Gouck",
+    "AuthorId": 5,
+    "DateReleased": "5/6/1782",
+    "NumberOfPages": 157,
+    "ImageUrl": "http://dummyimage.com/106x125.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 96.48,
+    "Title": "Speedway",
+    "Author": "Reuven Bench",
+    "AuthorId": 6,
+    "DateReleased": "8/28/1659",
+    "NumberOfPages": 164,
+    "ImageUrl": "http://dummyimage.com/194x157.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 121.32,
+    "Title": "2 + 2 (Dos más dos)",
+    "Author": "Stephana Assante",
+    "AuthorId": 7,
+    "DateReleased": "2/1/1860",
+    "NumberOfPages": 252,
+    "ImageUrl": "http://dummyimage.com/106x196.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Horror|Thriller",
+    "Price": 22.13,
+    "Title": "[REC]²",
+    "Author": "Kristoforo Tassaker",
+    "AuthorId": 8,
+    "DateReleased": "5/8/1888",
+    "NumberOfPages": 301,
+    "ImageUrl": "http://dummyimage.com/162x102.png/dddddd/000000"
+  },
+  {
+    "Category": "Action|Drama|War",
+    "Price": 18.21,
+    "Title": "Black Hawk Down",
+    "Author": "Alano Grimsley",
+    "AuthorId": 9,
+    "DateReleased": "12/11/1973",
+    "NumberOfPages": 145,
+    "ImageUrl": "http://dummyimage.com/231x245.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Crime|Drama|Thriller",
+    "Price": 79.05,
+    "Title": "Friends of Eddie Coyle, The",
+    "Author": "Joannes McCleod",
+    "AuthorId": 10,
+    "DateReleased": "5/8/2009",
+    "NumberOfPages": 302,
+    "ImageUrl": "http://dummyimage.com/250x195.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Drama|Romance",
+    "Price": 26.13,
+    "Title": "Late Marriage (Hatuna Meuheret)",
+    "Author": "Hermy MacVaugh",
+    "AuthorId": 11,
+    "DateReleased": "4/25/1930",
+    "NumberOfPages": 219,
+    "ImageUrl": "http://dummyimage.com/126x217.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Action|Drama|Romance|War",
+    "Price": 20.72,
+    "Title": "Spartacus",
+    "Author": "Tommie Blincoe",
+    "AuthorId": 12,
+    "DateReleased": "5/28/1757",
+    "NumberOfPages": 233,
+    "ImageUrl": "http://dummyimage.com/233x194.png/dddddd/000000"
+  },
+  {
+    "Category": "Drama",
+    "Price": 89.81,
+    "Title": "Bab'Aziz -The Prince Who Contemplated His Soul",
+    "Author": "Armand Fairfoot",
+    "AuthorId": 13,
+    "DateReleased": "5/17/1629",
+    "NumberOfPages": 192,
+    "ImageUrl": "http://dummyimage.com/181x103.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 76.98,
+    "Title": "Genova (Summer in Genoa, A)",
+    "Author": "Jedidiah Benois",
+    "AuthorId": 14,
+    "DateReleased": "4/4/1731",
+    "NumberOfPages": 321,
+    "ImageUrl": "http://dummyimage.com/198x194.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Romance",
+    "Price": 114.38,
+    "Title": "FC Venus",
+    "Author": "Mariquilla Ghiotto",
+    "AuthorId": 15,
+    "DateReleased": "5/4/1887",
+    "NumberOfPages": 324,
+    "ImageUrl": "http://dummyimage.com/218x176.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Adventure|Comedy|Fantasy|Romance",
+    "Price": 104.78,
+    "Title": "Stardust",
+    "Author": "Fabio Vasyushkhin",
+    "AuthorId": 16,
+    "DateReleased": "7/16/1689",
+    "NumberOfPages": 338,
+    "ImageUrl": "http://dummyimage.com/208x100.png/dddddd/000000"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 44.12,
+    "Title": "Luv",
+    "Author": "Eliot Smallcomb",
+    "AuthorId": 17,
+    "DateReleased": "8/17/1682",
+    "NumberOfPages": 273,
+    "ImageUrl": "http://dummyimage.com/104x242.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|Fantasy|Horror|Mystery|Thriller",
+    "Price": 86.82,
+    "Title": "Man Who Haunted Himself, The",
+    "Author": "Susann Ridoutt",
+    "AuthorId": 18,
+    "DateReleased": "8/19/1863",
+    "NumberOfPages": 125,
+    "ImageUrl": "http://dummyimage.com/221x173.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Crime|Drama|Thriller",
+    "Price": 99.32,
+    "Title": "Necessary Death, A",
+    "Author": "Clyde Grzelczak",
+    "AuthorId": 19,
+    "DateReleased": "3/21/1869",
+    "NumberOfPages": 283,
+    "ImageUrl": "http://dummyimage.com/113x129.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 48.97,
+    "Title": "Stromberg - Der Film",
+    "Author": "Ozzy Durie",
+    "AuthorId": 20,
+    "DateReleased": "9/10/1610",
+    "NumberOfPages": 218,
+    "ImageUrl": "http://dummyimage.com/111x101.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 49.88,
+    "Title": "Hippie Revolution, The",
+    "Author": "Bennie Melville",
+    "AuthorId": 21,
+    "DateReleased": "6/10/2013",
+    "NumberOfPages": 346,
+    "ImageUrl": "http://dummyimage.com/118x174.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 55.67,
+    "Title": "Black Gold",
+    "Author": "Bernhard Vasnev",
+    "AuthorId": 22,
+    "DateReleased": "2/9/1741",
+    "NumberOfPages": 309,
+    "ImageUrl": "http://dummyimage.com/168x154.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 144.27,
+    "Title": "Man, The",
+    "Author": "Munroe Giampietro",
+    "AuthorId": 23,
+    "DateReleased": "2/21/1787",
+    "NumberOfPages": 66,
+    "ImageUrl": "http://dummyimage.com/131x106.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Action|Adventure",
+    "Price": 44.38,
+    "Title": "Commando",
+    "Author": "Missy MacKimm",
+    "AuthorId": 24,
+    "DateReleased": "1/11/1651",
+    "NumberOfPages": 270,
+    "ImageUrl": "http://dummyimage.com/165x178.png/dddddd/000000"
+  },
+  {
+    "Category": "Drama|Mystery|Sci-Fi",
+    "Price": 121.71,
+    "Title": "Stalker",
+    "Author": "Hart Galvan",
+    "AuthorId": 25,
+    "DateReleased": "8/22/1764",
+    "NumberOfPages": 150,
+    "ImageUrl": "http://dummyimage.com/226x116.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 17.92,
+    "Title": "Hoop Realities",
+    "Author": "Nester Hallett",
+    "AuthorId": 26,
+    "DateReleased": "5/12/2012",
+    "NumberOfPages": 161,
+    "ImageUrl": "http://dummyimage.com/147x158.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 142.22,
+    "Title": "Is Anybody There?",
+    "Author": "Barnabe Manterfield",
+    "AuthorId": 27,
+    "DateReleased": "12/20/1929",
+    "NumberOfPages": 227,
+    "ImageUrl": "http://dummyimage.com/157x181.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Mystery|Thriller",
+    "Price": 42.58,
+    "Title": "Sleuth",
+    "Author": "Ichabod Levine",
+    "AuthorId": 28,
+    "DateReleased": "3/31/1677",
+    "NumberOfPages": 88,
+    "ImageUrl": "http://dummyimage.com/148x244.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Adventure|Comedy|Horror",
+    "Price": 114.37,
+    "Title": "Dance of the Dead",
+    "Author": "Hastings Stutt",
+    "AuthorId": 29,
+    "DateReleased": "6/19/1905",
+    "NumberOfPages": 81,
+    "ImageUrl": "http://dummyimage.com/105x114.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 57.88,
+    "Title": "Peyton Place",
+    "Author": "Huntley Eagar",
+    "AuthorId": 30,
+    "DateReleased": "10/8/1723",
+    "NumberOfPages": 145,
+    "ImageUrl": "http://dummyimage.com/152x167.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Action|Comedy|Romance",
+    "Price": 19.16,
+    "Title": "This Means War",
+    "Author": "Kevina Coppledike",
+    "AuthorId": 31,
+    "DateReleased": "6/16/1897",
+    "NumberOfPages": 198,
+    "ImageUrl": "http://dummyimage.com/186x152.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 65.25,
+    "Title": "Dumb and Dumberer: When Harry Met Lloyd",
+    "Author": "Alica Burkin",
+    "AuthorId": 32,
+    "DateReleased": "3/6/1909",
+    "NumberOfPages": 321,
+    "ImageUrl": "http://dummyimage.com/221x115.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Drama",
+    "Price": 76.05,
+    "Title": "Holy Land, The",
+    "Author": "Goldina Parradice",
+    "AuthorId": 33,
+    "DateReleased": "9/17/1711",
+    "NumberOfPages": 96,
+    "ImageUrl": "http://dummyimage.com/105x134.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 27.76,
+    "Title": "Edge of Heaven, The (Auf der anderen Seite)",
+    "Author": "Zeke Stacy",
+    "AuthorId": 34,
+    "DateReleased": "1/17/1832",
+    "NumberOfPages": 193,
+    "ImageUrl": "http://dummyimage.com/243x177.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 76.48,
+    "Title": "Double Take",
+    "Author": "Lucias Knappen",
+    "AuthorId": 35,
+    "DateReleased": "2/4/1645",
+    "NumberOfPages": 265,
+    "ImageUrl": "http://dummyimage.com/213x231.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 18.09,
+    "Title": "Claire of the Moon",
+    "Author": "Sheeree Gimson",
+    "AuthorId": 36,
+    "DateReleased": "6/28/1826",
+    "NumberOfPages": 179,
+    "ImageUrl": "http://dummyimage.com/123x127.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 46.83,
+    "Title": "Water",
+    "Author": "Emmott Cawthery",
+    "AuthorId": 37,
+    "DateReleased": "7/14/1694",
+    "NumberOfPages": 99,
+    "ImageUrl": "http://dummyimage.com/178x227.png/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Romance",
+    "Price": 136.67,
+    "Title": "Relationship Status: It's Complicated",
+    "Author": "Bank Perrelle",
+    "AuthorId": 38,
+    "DateReleased": "4/2/1792",
+    "NumberOfPages": 349,
+    "ImageUrl": "http://dummyimage.com/175x154.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama|Romance|War",
+    "Price": 76.14,
+    "Title": "Sand Pebbles, The",
+    "Author": "Amalie Anfonsi",
+    "AuthorId": 39,
+    "DateReleased": "6/26/1897",
+    "NumberOfPages": 335,
+    "ImageUrl": "http://dummyimage.com/100x231.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 109.47,
+    "Title": "Angel",
+    "Author": "Doreen McKerley",
+    "AuthorId": 40,
+    "DateReleased": "11/9/1949",
+    "NumberOfPages": 72,
+    "ImageUrl": "http://dummyimage.com/113x137.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 21.06,
+    "Title": "Crockdale",
+    "Author": "Gracie Duligall",
+    "AuthorId": 41,
+    "DateReleased": "1/31/1923",
+    "NumberOfPages": 343,
+    "ImageUrl": "http://dummyimage.com/220x184.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 20.47,
+    "Title": "Région centrale, La",
+    "Author": "Dun McCague",
+    "AuthorId": 42,
+    "DateReleased": "10/12/1831",
+    "NumberOfPages": 171,
+    "ImageUrl": "http://dummyimage.com/209x159.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 70.42,
+    "Title": "Hall Pass",
+    "Author": "Jorgan Limpertz",
+    "AuthorId": 43,
+    "DateReleased": "9/12/1614",
+    "NumberOfPages": 189,
+    "ImageUrl": "http://dummyimage.com/120x201.png/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Crime|Mystery",
+    "Price": 65.47,
+    "Title": "Murder à la Mod",
+    "Author": "Gerri Rousell",
+    "AuthorId": 44,
+    "DateReleased": "2/26/1939",
+    "NumberOfPages": 297,
+    "ImageUrl": "http://dummyimage.com/191x237.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 30.89,
+    "Title": "Twin Falls Idaho",
+    "Author": "Marney Yersin",
+    "AuthorId": 45,
+    "DateReleased": "5/13/1813",
+    "NumberOfPages": 180,
+    "ImageUrl": "http://dummyimage.com/227x228.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Crime|Drama|Film-Noir|Mystery|Romance",
+    "Price": 51.92,
+    "Title": "Lady in the Lake",
+    "Author": "Davide Busk",
+    "AuthorId": 46,
+    "DateReleased": "11/30/1755",
+    "NumberOfPages": 301,
+    "ImageUrl": "http://dummyimage.com/105x149.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama|Film-Noir|Mystery",
+    "Price": 97.84,
+    "Title": "Fingers at the Window",
+    "Author": "Kaitlynn Derrington",
+    "AuthorId": 47,
+    "DateReleased": "5/31/1972",
+    "NumberOfPages": 183,
+    "ImageUrl": "http://dummyimage.com/173x154.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 108.58,
+    "Title": "Evil (Ondskan)",
+    "Author": "Chelsie McMennum",
+    "AuthorId": 48,
+    "DateReleased": "4/14/1604",
+    "NumberOfPages": 112,
+    "ImageUrl": "http://dummyimage.com/183x213.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Action|Crime",
+    "Price": 70.52,
+    "Title": "Force of Execution",
+    "Author": "Sherrie Rivalant",
+    "AuthorId": 49,
+    "DateReleased": "1/16/1724",
+    "NumberOfPages": 200,
+    "ImageUrl": "http://dummyimage.com/170x210.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Animation|Fantasy",
+    "Price": 69.4,
+    "Title": "9",
+    "Author": "Mellie Ros",
+    "AuthorId": 50,
+    "DateReleased": "7/20/1887",
+    "NumberOfPages": 274,
+    "ImageUrl": "http://dummyimage.com/188x100.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama|Mystery",
+    "Price": 56.63,
+    "Title": "Nines, The",
+    "Author": "Anders Beecraft",
+    "AuthorId": 51,
+    "DateReleased": "5/24/1788",
+    "NumberOfPages": 80,
+    "ImageUrl": "http://dummyimage.com/209x112.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama|Musical",
+    "Price": 140.63,
+    "Title": "Rock Star",
+    "Author": "Jonah Blaney",
+    "AuthorId": 52,
+    "DateReleased": "11/10/1952",
+    "NumberOfPages": 216,
+    "ImageUrl": "http://dummyimage.com/148x210.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 73.91,
+    "Title": "Stuck ",
+    "Author": "Berk Minshaw",
+    "AuthorId": 53,
+    "DateReleased": "10/7/1659",
+    "NumberOfPages": 159,
+    "ImageUrl": "http://dummyimage.com/232x119.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Action|Adventure|Comedy",
+    "Price": 142.33,
+    "Title": "Manborg",
+    "Author": "Connie Falkous",
+    "AuthorId": 54,
+    "DateReleased": "6/13/1870",
+    "NumberOfPages": 88,
+    "ImageUrl": "http://dummyimage.com/220x188.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Romance|Sci-Fi",
+    "Price": 84.2,
+    "Title": "Last Man, The",
+    "Author": "Emlyn Broxap",
+    "AuthorId": 55,
+    "DateReleased": "2/26/1635",
+    "NumberOfPages": 281,
+    "ImageUrl": "http://dummyimage.com/170x163.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 21.41,
+    "Title": "Losing Isaiah",
+    "Author": "Lory Kaley",
+    "AuthorId": 56,
+    "DateReleased": "7/26/1805",
+    "NumberOfPages": 113,
+    "ImageUrl": "http://dummyimage.com/126x137.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 76.17,
+    "Title": "Professor Beware",
+    "Author": "Elysia Lynd",
+    "AuthorId": 57,
+    "DateReleased": "12/3/1901",
+    "NumberOfPages": 302,
+    "ImageUrl": "http://dummyimage.com/178x147.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Animation|Children|Fantasy",
+    "Price": 41.74,
+    "Title": "Dexter the Dragon & Bumble the Bear (a.k.a. Dragon That Wasn't (Or Was He?), The) (Als je begrijpt wat ik bedoel)",
+    "Author": "Liz Willows",
+    "AuthorId": 58,
+    "DateReleased": "10/21/1883",
+    "NumberOfPages": 94,
+    "ImageUrl": "http://dummyimage.com/168x184.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Action|Comedy|Crime",
+    "Price": 62.88,
+    "Title": "Nicht mein Tag",
+    "Author": "Zelda Bricket",
+    "AuthorId": 59,
+    "DateReleased": "5/18/1760",
+    "NumberOfPages": 331,
+    "ImageUrl": "http://dummyimage.com/238x113.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 84.58,
+    "Title": "Baggage Claim",
+    "Author": "Geri Bulfoot",
+    "AuthorId": 60,
+    "DateReleased": "1/23/1914",
+    "NumberOfPages": 300,
+    "ImageUrl": "http://dummyimage.com/189x116.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 61.69,
+    "Title": "Wedding Gift, The",
+    "Author": "Bearnard Rogge",
+    "AuthorId": 61,
+    "DateReleased": "12/17/1773",
+    "NumberOfPages": 59,
+    "ImageUrl": "http://dummyimage.com/126x147.png/dddddd/000000"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 24.28,
+    "Title": "Down and Out with the Dolls",
+    "Author": "Roda Mersey",
+    "AuthorId": 62,
+    "DateReleased": "8/20/1874",
+    "NumberOfPages": 202,
+    "ImageUrl": "http://dummyimage.com/145x114.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama|Romance",
+    "Price": 66.95,
+    "Title": "How to Marry a Millionaire",
+    "Author": "Ajay Lamdin",
+    "AuthorId": 63,
+    "DateReleased": "9/6/1748",
+    "NumberOfPages": 104,
+    "ImageUrl": "http://dummyimage.com/204x154.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 31.94,
+    "Title": "Chicken, the Fish and the King Crab, The (El pollo, el pez y el cangrejo real)",
+    "Author": "Margo Kale",
+    "AuthorId": 64,
+    "DateReleased": "3/14/1939",
+    "NumberOfPages": 199,
+    "ImageUrl": "http://dummyimage.com/200x107.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 53.71,
+    "Title": "41",
+    "Author": "Happy Perrycost",
+    "AuthorId": 65,
+    "DateReleased": "8/1/1730",
+    "NumberOfPages": 182,
+    "ImageUrl": "http://dummyimage.com/177x156.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 20.71,
+    "Title": "Sing Your Song",
+    "Author": "Ulises Gynni",
+    "AuthorId": 66,
+    "DateReleased": "2/4/1966",
+    "NumberOfPages": 112,
+    "ImageUrl": "http://dummyimage.com/193x183.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Action",
+    "Price": 20.51,
+    "Title": "Wu Tang Master (Tian shi zhuang xie)",
+    "Author": "Timothea Matashkin",
+    "AuthorId": 67,
+    "DateReleased": "8/17/1883",
+    "NumberOfPages": 62,
+    "ImageUrl": "http://dummyimage.com/196x132.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Action|Drama",
+    "Price": 43.4,
+    "Title": "Crippled Masters (Tian can di que)",
+    "Author": "Janaye Khotler",
+    "AuthorId": 68,
+    "DateReleased": "9/15/1777",
+    "NumberOfPages": 103,
+    "ImageUrl": "http://dummyimage.com/224x217.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama|War",
+    "Price": 142.09,
+    "Title": "Gung Ho! (Gung Ho!: The Story of Carlson's Makin Island Raiders)",
+    "Author": "Camille Burehill",
+    "AuthorId": 69,
+    "DateReleased": "6/13/1616",
+    "NumberOfPages": 314,
+    "ImageUrl": "http://dummyimage.com/175x155.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama|Mystery|Thriller",
+    "Price": 87.23,
+    "Title": "Prisoners",
+    "Author": "Callie Berntssen",
+    "AuthorId": 70,
+    "DateReleased": "4/30/1886",
+    "NumberOfPages": 188,
+    "ImageUrl": "http://dummyimage.com/204x230.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Action|Crime|Thriller",
+    "Price": 52.53,
+    "Title": "Driven to Kill",
+    "Author": "Rina Louder",
+    "AuthorId": 71,
+    "DateReleased": "6/20/1926",
+    "NumberOfPages": 309,
+    "ImageUrl": "http://dummyimage.com/221x245.png/dddddd/000000"
+  },
+  {
+    "Category": "Thriller",
+    "Price": 80.57,
+    "Title": "Above Suspicion",
+    "Author": "Casey Brason",
+    "AuthorId": 72,
+    "DateReleased": "6/21/1621",
+    "NumberOfPages": 148,
+    "ImageUrl": "http://dummyimage.com/231x204.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Romance",
+    "Price": 32.99,
+    "Title": "Jack Goes Boating",
+    "Author": "Bryan McAllan",
+    "AuthorId": 73,
+    "DateReleased": "4/19/1972",
+    "NumberOfPages": 170,
+    "ImageUrl": "http://dummyimage.com/142x155.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 111.26,
+    "Title": "Winter Nomads",
+    "Author": "Yalonda Malbon",
+    "AuthorId": 74,
+    "DateReleased": "1/14/1829",
+    "NumberOfPages": 125,
+    "ImageUrl": "http://dummyimage.com/144x195.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 108.77,
+    "Title": "Cinema Verite",
+    "Author": "Lewes Yeo",
+    "AuthorId": 75,
+    "DateReleased": "9/18/1844",
+    "NumberOfPages": 236,
+    "ImageUrl": "http://dummyimage.com/177x158.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 134.74,
+    "Title": "Evidence",
+    "Author": "Arabella Wyche",
+    "AuthorId": 76,
+    "DateReleased": "10/22/1710",
+    "NumberOfPages": 277,
+    "ImageUrl": "http://dummyimage.com/203x244.png/dddddd/000000"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 74.06,
+    "Title": "Bring It On: In It To Win It",
+    "Author": "Darda Craythorn",
+    "AuthorId": 77,
+    "DateReleased": "1/12/1953",
+    "NumberOfPages": 205,
+    "ImageUrl": "http://dummyimage.com/202x121.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 44.34,
+    "Title": "Unloved, The",
+    "Author": "Chandra Champain",
+    "AuthorId": 78,
+    "DateReleased": "7/9/1798",
+    "NumberOfPages": 220,
+    "ImageUrl": "http://dummyimage.com/232x222.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 71.97,
+    "Title": "Birds, the Bees and the Italians, The (Signore & signori)",
+    "Author": "Garik Potteril",
+    "AuthorId": 79,
+    "DateReleased": "6/24/1605",
+    "NumberOfPages": 76,
+    "ImageUrl": "http://dummyimage.com/102x116.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Crime",
+    "Price": 131.14,
+    "Title": "See No Evil, Hear No Evil",
+    "Author": "Celinda Favelle",
+    "AuthorId": 80,
+    "DateReleased": "5/7/1794",
+    "NumberOfPages": 251,
+    "ImageUrl": "http://dummyimage.com/110x140.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 131.13,
+    "Title": "Leila",
+    "Author": "Freddy Ingry",
+    "AuthorId": 81,
+    "DateReleased": "5/8/1788",
+    "NumberOfPages": 52,
+    "ImageUrl": "http://dummyimage.com/112x157.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Action|Crime|Drama|IMAX",
+    "Price": 93.97,
+    "Title": "Need for Speed",
+    "Author": "Davida Brandoni",
+    "AuthorId": 82,
+    "DateReleased": "10/3/1640",
+    "NumberOfPages": 266,
+    "ImageUrl": "http://dummyimage.com/233x170.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Animation|Comedy|Sci-Fi",
+    "Price": 87.84,
+    "Title": "Monsters vs Aliens: Mutant Pumpkins from Outer Space",
+    "Author": "Gerrard Arnoll",
+    "AuthorId": 83,
+    "DateReleased": "3/31/1638",
+    "NumberOfPages": 333,
+    "ImageUrl": "http://dummyimage.com/235x114.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Romance",
+    "Price": 119.89,
+    "Title": "Chances Are",
+    "Author": "Toma Acom",
+    "AuthorId": 84,
+    "DateReleased": "6/12/1769",
+    "NumberOfPages": 235,
+    "ImageUrl": "http://dummyimage.com/246x150.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 79.5,
+    "Title": "Happy End",
+    "Author": "Fin Janz",
+    "AuthorId": 85,
+    "DateReleased": "9/10/1811",
+    "NumberOfPages": 91,
+    "ImageUrl": "http://dummyimage.com/205x149.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 109.13,
+    "Title": "Of Human Bondage",
+    "Author": "Annette Redholls",
+    "AuthorId": 86,
+    "DateReleased": "8/27/1792",
+    "NumberOfPages": 279,
+    "ImageUrl": "http://dummyimage.com/196x138.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Horror",
+    "Price": 50.3,
+    "Title": "Pit, The",
+    "Author": "Gaven Boulsher",
+    "AuthorId": 87,
+    "DateReleased": "2/22/1765",
+    "NumberOfPages": 98,
+    "ImageUrl": "http://dummyimage.com/120x188.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 113.49,
+    "Title": "Yankee Zulu",
+    "Author": "Tymon Groveham",
+    "AuthorId": 88,
+    "DateReleased": "8/29/1647",
+    "NumberOfPages": 135,
+    "ImageUrl": "http://dummyimage.com/140x175.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 44.32,
+    "Title": "One, Two, Three",
+    "Author": "Barbra Moizer",
+    "AuthorId": 89,
+    "DateReleased": "12/10/1936",
+    "NumberOfPages": 275,
+    "ImageUrl": "http://dummyimage.com/241x192.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 47.6,
+    "Title": "Headfirst",
+    "Author": "Homerus Tebbe",
+    "AuthorId": 90,
+    "DateReleased": "10/5/1890",
+    "NumberOfPages": 332,
+    "ImageUrl": "http://dummyimage.com/222x227.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Drama",
+    "Price": 18.43,
+    "Title": "Sandra of a Thousand Delights (Vaghe stelle dell'Orsa...)",
+    "Author": "Dorothee Fabry",
+    "AuthorId": 91,
+    "DateReleased": "9/17/1916",
+    "NumberOfPages": 61,
+    "ImageUrl": "http://dummyimage.com/151x116.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 133.53,
+    "Title": "24 Hour Woman, The",
+    "Author": "Thatch Colloby",
+    "AuthorId": 92,
+    "DateReleased": "7/18/1857",
+    "NumberOfPages": 315,
+    "ImageUrl": "http://dummyimage.com/171x143.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama|Thriller",
+    "Price": 47.13,
+    "Title": "Quid Pro Quo",
+    "Author": "Raina Cathrall",
+    "AuthorId": 93,
+    "DateReleased": "12/14/2000",
+    "NumberOfPages": 339,
+    "ImageUrl": "http://dummyimage.com/120x201.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 63.05,
+    "Title": "Bartleby",
+    "Author": "Pepito Audenis",
+    "AuthorId": 94,
+    "DateReleased": "7/2/1837",
+    "NumberOfPages": 288,
+    "ImageUrl": "http://dummyimage.com/138x194.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Romance",
+    "Price": 76.88,
+    "Title": "An Amazing Couple",
+    "Author": "Gardener Hedge",
+    "AuthorId": 95,
+    "DateReleased": "7/10/1921",
+    "NumberOfPages": 142,
+    "ImageUrl": "http://dummyimage.com/158x134.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Animation|Fantasy",
+    "Price": 129.19,
+    "Title": "Yobi, The Five-Tailed Fox",
+    "Author": "Dene Pagen",
+    "AuthorId": 96,
+    "DateReleased": "6/29/1758",
+    "NumberOfPages": 163,
+    "ImageUrl": "http://dummyimage.com/213x175.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Drama|Mystery|Sci-Fi",
+    "Price": 61.27,
+    "Title": "Fire in the Sky",
+    "Author": "Paquito Paulack",
+    "AuthorId": 97,
+    "DateReleased": "1/20/1727",
+    "NumberOfPages": 288,
+    "ImageUrl": "http://dummyimage.com/220x244.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 107.69,
+    "Title": "Wrestler, The",
+    "Author": "Sherwood Brayn",
+    "AuthorId": 98,
+    "DateReleased": "12/19/1888",
+    "NumberOfPages": 122,
+    "ImageUrl": "http://dummyimage.com/120x155.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Horror|Thriller",
+    "Price": 24.41,
+    "Title": "Frozen, The",
+    "Author": "Genia Ivanchikov",
+    "AuthorId": 99,
+    "DateReleased": "2/16/1909",
+    "NumberOfPages": 221,
+    "ImageUrl": "http://dummyimage.com/247x242.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 57.4,
+    "Title": "Artifact",
+    "Author": "Luke Davidek",
+    "AuthorId": 100,
+    "DateReleased": "2/18/1845",
+    "NumberOfPages": 93,
+    "ImageUrl": "http://dummyimage.com/132x137.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Crime|Drama|Mystery|Thriller",
+    "Price": 118.26,
+    "Title": "After Alice (Eye of the Killer)",
+    "Author": "Mitchael Byard",
+    "AuthorId": 101,
+    "DateReleased": "1/2/1614",
+    "NumberOfPages": 53,
+    "ImageUrl": "http://dummyimage.com/116x148.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 90.09,
+    "Title": "Main Street",
+    "Author": "Joelie O' Scallan",
+    "AuthorId": 102,
+    "DateReleased": "7/19/1793",
+    "NumberOfPages": 81,
+    "ImageUrl": "http://dummyimage.com/212x219.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 40.87,
+    "Title": "Scatter My Ashes at Bergdorf's",
+    "Author": "Park Arson",
+    "AuthorId": 103,
+    "DateReleased": "8/4/1880",
+    "NumberOfPages": 149,
+    "ImageUrl": "http://dummyimage.com/111x124.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 137.93,
+    "Title": "Dorado, El",
+    "Author": "Antonino Le Grys",
+    "AuthorId": 104,
+    "DateReleased": "12/1/1976",
+    "NumberOfPages": 158,
+    "ImageUrl": "http://dummyimage.com/165x178.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Action",
+    "Price": 90.22,
+    "Title": "Murphy's Law",
+    "Author": "Rafaello Guy",
+    "AuthorId": 105,
+    "DateReleased": "10/25/1930",
+    "NumberOfPages": 335,
+    "ImageUrl": "http://dummyimage.com/167x105.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 93.34,
+    "Title": "Fred: The Movie",
+    "Author": "Maudie Sandwick",
+    "AuthorId": 106,
+    "DateReleased": "10/14/1838",
+    "NumberOfPages": 77,
+    "ImageUrl": "http://dummyimage.com/101x148.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Crime|Documentary",
+    "Price": 49.85,
+    "Title": "American Drug War: The Last White Hope",
+    "Author": "Francesco Woolmington",
+    "AuthorId": 107,
+    "DateReleased": "6/1/1894",
+    "NumberOfPages": 216,
+    "ImageUrl": "http://dummyimage.com/176x151.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Drama|Thriller|War",
+    "Price": 79.9,
+    "Title": "Soldier of Orange (a.k.a. Survival Run) (Soldaat van Oranje)",
+    "Author": "Nikos Cumberpatch",
+    "AuthorId": 108,
+    "DateReleased": "8/19/1892",
+    "NumberOfPages": 80,
+    "ImageUrl": "http://dummyimage.com/119x150.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Western",
+    "Price": 82.31,
+    "Title": "Straight Shooting",
+    "Author": "Shay Learmond",
+    "AuthorId": 109,
+    "DateReleased": "8/14/1653",
+    "NumberOfPages": 279,
+    "ImageUrl": "http://dummyimage.com/195x211.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Children|Comedy|Mystery",
+    "Price": 31.84,
+    "Title": "That Darn Cat",
+    "Author": "Ronica Bosche",
+    "AuthorId": 110,
+    "DateReleased": "10/25/1794",
+    "NumberOfPages": 281,
+    "ImageUrl": "http://dummyimage.com/191x122.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Western",
+    "Price": 37.96,
+    "Title": "Cheyenne Autumn",
+    "Author": "Nealy Duding",
+    "AuthorId": 111,
+    "DateReleased": "4/29/1606",
+    "NumberOfPages": 346,
+    "ImageUrl": "http://dummyimage.com/129x154.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Action|Drama|Thriller",
+    "Price": 50.45,
+    "Title": "Under Siege",
+    "Author": "Delmar Josipovic",
+    "AuthorId": 112,
+    "DateReleased": "5/26/1754",
+    "NumberOfPages": 65,
+    "ImageUrl": "http://dummyimage.com/180x221.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Horror|Thriller",
+    "Price": 34.41,
+    "Title": "Doctor X",
+    "Author": "Merrilee Cosley",
+    "AuthorId": 113,
+    "DateReleased": "5/12/1918",
+    "NumberOfPages": 85,
+    "ImageUrl": "http://dummyimage.com/134x210.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Documentary|Drama",
+    "Price": 117.93,
+    "Title": "Rude Boy",
+    "Author": "Noni Hacquard",
+    "AuthorId": 114,
+    "DateReleased": "5/18/1682",
+    "NumberOfPages": 344,
+    "ImageUrl": "http://dummyimage.com/124x106.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 37.36,
+    "Title": "This Boy's Life",
+    "Author": "Hana Lydiate",
+    "AuthorId": 115,
+    "DateReleased": "7/12/1863",
+    "NumberOfPages": 137,
+    "ImageUrl": "http://dummyimage.com/224x106.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Romance",
+    "Price": 68.36,
+    "Title": "Rabbit Without Ears 2 (Zweiohrküken)",
+    "Author": "Patton Boundey",
+    "AuthorId": 116,
+    "DateReleased": "11/29/1951",
+    "NumberOfPages": 102,
+    "ImageUrl": "http://dummyimage.com/182x155.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 82.03,
+    "Title": "Gojoe: Spirit War Chronicle (Gojo reisenki: Gojoe)",
+    "Author": "Joella Scones",
+    "AuthorId": 117,
+    "DateReleased": "8/22/1807",
+    "NumberOfPages": 306,
+    "ImageUrl": "http://dummyimage.com/122x104.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama|Thriller",
+    "Price": 50.75,
+    "Title": "Diabolique",
+    "Author": "Gregoire Ragat",
+    "AuthorId": 118,
+    "DateReleased": "4/27/1921",
+    "NumberOfPages": 319,
+    "ImageUrl": "http://dummyimage.com/158x108.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Horror|Mystery",
+    "Price": 135.58,
+    "Title": "Haunt",
+    "Author": "Elane Lorenc",
+    "AuthorId": 119,
+    "DateReleased": "9/2/1856",
+    "NumberOfPages": 114,
+    "ImageUrl": "http://dummyimage.com/108x142.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 72.69,
+    "Title": "Girls Town",
+    "Author": "Brigitta Hutchinson",
+    "AuthorId": 120,
+    "DateReleased": "10/16/1873",
+    "NumberOfPages": 292,
+    "ImageUrl": "http://dummyimage.com/195x220.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 57.61,
+    "Title": "Blood and Sand (Sangre y Arena)",
+    "Author": "Cord Sperski",
+    "AuthorId": 121,
+    "DateReleased": "5/18/1975",
+    "NumberOfPages": 88,
+    "ImageUrl": "http://dummyimage.com/151x170.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 96.6,
+    "Title": "David Cross: The Pride Is Back",
+    "Author": "Tommie Barnshaw",
+    "AuthorId": 122,
+    "DateReleased": "10/12/1973",
+    "NumberOfPages": 219,
+    "ImageUrl": "http://dummyimage.com/207x135.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Crime|Drama|Mystery|Thriller",
+    "Price": 33.09,
+    "Title": "Blood Work",
+    "Author": "Stearne Siggens",
+    "AuthorId": 123,
+    "DateReleased": "2/15/1867",
+    "NumberOfPages": 124,
+    "ImageUrl": "http://dummyimage.com/239x132.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Crime|Drama|Romance|Thriller",
+    "Price": 75.89,
+    "Title": "Nurse Betty",
+    "Author": "Caleb O'Keevan",
+    "AuthorId": 124,
+    "DateReleased": "4/7/1799",
+    "NumberOfPages": 329,
+    "ImageUrl": "http://dummyimage.com/240x179.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Drama",
+    "Price": 71.58,
+    "Title": "Snows of Kilimanjaro, The (Neiges du Kilimandjaro, Les)",
+    "Author": "Hardy McSweeney",
+    "AuthorId": 125,
+    "DateReleased": "11/29/1760",
+    "NumberOfPages": 239,
+    "ImageUrl": "http://dummyimage.com/104x177.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 128.36,
+    "Title": "Loop the Loop (Up and Down) (Horem pádem)",
+    "Author": "Ashlen Byer",
+    "AuthorId": 126,
+    "DateReleased": "8/10/1833",
+    "NumberOfPages": 86,
+    "ImageUrl": "http://dummyimage.com/104x202.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 62.45,
+    "Title": "Steamboat Round the Bend",
+    "Author": "Chantal Tongue",
+    "AuthorId": 127,
+    "DateReleased": "6/24/1750",
+    "NumberOfPages": 212,
+    "ImageUrl": "http://dummyimage.com/207x187.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Action",
+    "Price": 28.8,
+    "Title": "Taxi Hunter (Di shi pan guan)",
+    "Author": "Clive Scorey",
+    "AuthorId": 128,
+    "DateReleased": "11/21/1983",
+    "NumberOfPages": 263,
+    "ImageUrl": "http://dummyimage.com/133x145.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Animation|Drama",
+    "Price": 125.84,
+    "Title": "When Marnie Was There",
+    "Author": "Evan Gidney",
+    "AuthorId": 129,
+    "DateReleased": "2/9/1922",
+    "NumberOfPages": 58,
+    "ImageUrl": "http://dummyimage.com/185x193.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 85.43,
+    "Title": "Känd från TV",
+    "Author": "Art Mattheissen",
+    "AuthorId": 130,
+    "DateReleased": "3/15/1754",
+    "NumberOfPages": 152,
+    "ImageUrl": "http://dummyimage.com/165x218.png/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Documentary",
+    "Price": 106.88,
+    "Title": "This Filthy World",
+    "Author": "Brook Screwton",
+    "AuthorId": 131,
+    "DateReleased": "3/4/1624",
+    "NumberOfPages": 206,
+    "ImageUrl": "http://dummyimage.com/145x139.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 75.08,
+    "Title": "Pornorama",
+    "Author": "Marje Stoyle",
+    "AuthorId": 132,
+    "DateReleased": "2/11/1867",
+    "NumberOfPages": 71,
+    "ImageUrl": "http://dummyimage.com/218x238.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Animation|Children|Comedy|Fantasy",
+    "Price": 46.16,
+    "Title": "Cloudy with a Chance of Meatballs 2",
+    "Author": "Enriqueta Haensel",
+    "AuthorId": 133,
+    "DateReleased": "9/4/1843",
+    "NumberOfPages": 273,
+    "ImageUrl": "http://dummyimage.com/121x214.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 82.73,
+    "Title": "Waydowntown",
+    "Author": "Vanya Delacourt",
+    "AuthorId": 134,
+    "DateReleased": "5/11/1999",
+    "NumberOfPages": 87,
+    "ImageUrl": "http://dummyimage.com/143x180.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Action|Comedy",
+    "Price": 98.01,
+    "Title": "MacGruber",
+    "Author": "Deeyn Rostron",
+    "AuthorId": 135,
+    "DateReleased": "4/12/1679",
+    "NumberOfPages": 62,
+    "ImageUrl": "http://dummyimage.com/167x123.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Thriller",
+    "Price": 57.05,
+    "Title": "Dream Man",
+    "Author": "Addi Berthomieu",
+    "AuthorId": 136,
+    "DateReleased": "12/11/1731",
+    "NumberOfPages": 113,
+    "ImageUrl": "http://dummyimage.com/237x239.png/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Crime|Drama",
+    "Price": 19.65,
+    "Title": "Private Detective 62",
+    "Author": "Cathie Maffezzoli",
+    "AuthorId": 137,
+    "DateReleased": "12/25/1621",
+    "NumberOfPages": 324,
+    "ImageUrl": "http://dummyimage.com/174x216.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Crime|Drama|Romance",
+    "Price": 98.58,
+    "Title": "Borderline",
+    "Author": "Nealy Giraldon",
+    "AuthorId": 138,
+    "DateReleased": "10/24/1751",
+    "NumberOfPages": 135,
+    "ImageUrl": "http://dummyimage.com/237x181.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 106.44,
+    "Title": "Somersault",
+    "Author": "Elmore Schrinel",
+    "AuthorId": 139,
+    "DateReleased": "5/14/1946",
+    "NumberOfPages": 325,
+    "ImageUrl": "http://dummyimage.com/242x147.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Action|Drama|War",
+    "Price": 50.04,
+    "Title": "The Water Diviner",
+    "Author": "Guthry Challace",
+    "AuthorId": 140,
+    "DateReleased": "2/15/1843",
+    "NumberOfPages": 196,
+    "ImageUrl": "http://dummyimage.com/214x168.png/dddddd/000000"
+  },
+  {
+    "Category": "Action|Crime|Drama",
+    "Price": 42.22,
+    "Title": "Black Rain",
+    "Author": "Malorie Stones",
+    "AuthorId": 141,
+    "DateReleased": "10/10/1602",
+    "NumberOfPages": 275,
+    "ImageUrl": "http://dummyimage.com/227x170.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 64.47,
+    "Title": "Of Human Hearts",
+    "Author": "Joete McDade",
+    "AuthorId": 142,
+    "DateReleased": "10/29/1901",
+    "NumberOfPages": 163,
+    "ImageUrl": "http://dummyimage.com/171x178.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 52.83,
+    "Title": "Yossi & Jagger",
+    "Author": "Opal Picott",
+    "AuthorId": 143,
+    "DateReleased": "4/8/1677",
+    "NumberOfPages": 319,
+    "ImageUrl": "http://dummyimage.com/153x201.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Children|Comedy|Fantasy|Musical",
+    "Price": 123.14,
+    "Title": "Into the Woods",
+    "Author": "Brigitta Picken",
+    "AuthorId": 144,
+    "DateReleased": "10/11/1967",
+    "NumberOfPages": 273,
+    "ImageUrl": "http://dummyimage.com/168x195.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Action|Crime|Drama|Thriller",
+    "Price": 85.69,
+    "Title": "Pusher II: With Blood on My Hands",
+    "Author": "Alie McCloughen",
+    "AuthorId": 145,
+    "DateReleased": "11/6/1607",
+    "NumberOfPages": 256,
+    "ImageUrl": "http://dummyimage.com/136x238.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 47.42,
+    "Title": "Anna and the King",
+    "Author": "Hedwig Dragon",
+    "AuthorId": 146,
+    "DateReleased": "1/18/1704",
+    "NumberOfPages": 301,
+    "ImageUrl": "http://dummyimage.com/140x140.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 89.33,
+    "Title": "We Need a Vacation (Fais-moi des vacances)",
+    "Author": "Shawn Hansard",
+    "AuthorId": 147,
+    "DateReleased": "6/16/1785",
+    "NumberOfPages": 319,
+    "ImageUrl": "http://dummyimage.com/151x133.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Crime|Drama|Thriller",
+    "Price": 113.5,
+    "Title": "Undertow",
+    "Author": "Enrico Cortnay",
+    "AuthorId": 148,
+    "DateReleased": "6/4/1959",
+    "NumberOfPages": 261,
+    "ImageUrl": "http://dummyimage.com/141x100.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 70.59,
+    "Title": "Get Over It",
+    "Author": "Amandy Agge",
+    "AuthorId": 149,
+    "DateReleased": "7/7/1888",
+    "NumberOfPages": 87,
+    "ImageUrl": "http://dummyimage.com/221x184.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama|Horror|Mystery|Romance|Thriller",
+    "Price": 42.78,
+    "Title": "Night of Dark Shadows",
+    "Author": "Obadiah Priter",
+    "AuthorId": 150,
+    "DateReleased": "5/30/1858",
+    "NumberOfPages": 348,
+    "ImageUrl": "http://dummyimage.com/125x233.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Sci-Fi",
+    "Price": 107.22,
+    "Title": "Hello Down There",
+    "Author": "Frederick Sedger",
+    "AuthorId": 151,
+    "DateReleased": "3/1/1874",
+    "NumberOfPages": 154,
+    "ImageUrl": "http://dummyimage.com/244x177.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Horror|Thriller",
+    "Price": 104.27,
+    "Title": "Isle of the Dead",
+    "Author": "Ephrayim Edgerley",
+    "AuthorId": 152,
+    "DateReleased": "5/10/1813",
+    "NumberOfPages": 90,
+    "ImageUrl": "http://dummyimage.com/108x110.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 129.33,
+    "Title": "My Brother the Devil",
+    "Author": "Lutero Walwood",
+    "AuthorId": 153,
+    "DateReleased": "6/4/1747",
+    "NumberOfPages": 252,
+    "ImageUrl": "http://dummyimage.com/194x136.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Crime|Drama|Mystery",
+    "Price": 99.78,
+    "Title": "Love Is a Woman (Death Is a Woman)",
+    "Author": "Stanly Gilkes",
+    "AuthorId": 154,
+    "DateReleased": "2/13/1948",
+    "NumberOfPages": 74,
+    "ImageUrl": "http://dummyimage.com/203x174.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Action|Crime",
+    "Price": 117.02,
+    "Title": "New York Cop (Nyû Yôku no koppu)",
+    "Author": "Kaylyn Desseine",
+    "AuthorId": 155,
+    "DateReleased": "6/27/1820",
+    "NumberOfPages": 97,
+    "ImageUrl": "http://dummyimage.com/223x199.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 75.09,
+    "Title": "Yumurta (Egg)",
+    "Author": "Robinia Aubert",
+    "AuthorId": 156,
+    "DateReleased": "1/15/1788",
+    "NumberOfPages": 227,
+    "ImageUrl": "http://dummyimage.com/144x164.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 91.32,
+    "Title": "Dans la peau d'une grande",
+    "Author": "Archambault Jeannaud",
+    "AuthorId": 157,
+    "DateReleased": "6/14/1617",
+    "NumberOfPages": 148,
+    "ImageUrl": "http://dummyimage.com/176x222.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Crime|Thriller",
+    "Price": 72.88,
+    "Title": "Man on a Ledge",
+    "Author": "Celine Fritzer",
+    "AuthorId": 158,
+    "DateReleased": "12/1/1888",
+    "NumberOfPages": 189,
+    "ImageUrl": "http://dummyimage.com/131x100.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Musical|Romance",
+    "Price": 132.27,
+    "Title": "Three Smart Girls Grow Up",
+    "Author": "Eada Binton",
+    "AuthorId": 159,
+    "DateReleased": "7/4/1973",
+    "NumberOfPages": 57,
+    "ImageUrl": "http://dummyimage.com/226x247.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 52.21,
+    "Title": "World Before Her, The",
+    "Author": "Brooke Dargie",
+    "AuthorId": 160,
+    "DateReleased": "12/7/2000",
+    "NumberOfPages": 229,
+    "ImageUrl": "http://dummyimage.com/192x154.png/dddddd/000000"
+  },
+  {
+    "Category": "Crime|Drama",
+    "Price": 122.42,
+    "Title": "Once Were Warriors",
+    "Author": "Lucila Cayton",
+    "AuthorId": 161,
+    "DateReleased": "12/5/1634",
+    "NumberOfPages": 195,
+    "ImageUrl": "http://dummyimage.com/158x193.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Animation",
+    "Price": 27.91,
+    "Title": "The Little Matchgirl",
+    "Author": "Anallise Holworth",
+    "AuthorId": 162,
+    "DateReleased": "12/23/1944",
+    "NumberOfPages": 240,
+    "ImageUrl": "http://dummyimage.com/154x192.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 29.11,
+    "Title": "Message to Love: The Isle of Wight Festival",
+    "Author": "Bartholomeo Hatch",
+    "AuthorId": 163,
+    "DateReleased": "4/7/1693",
+    "NumberOfPages": 336,
+    "ImageUrl": "http://dummyimage.com/204x208.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 26.19,
+    "Title": "No Greater Love",
+    "Author": "Lurleen Choules",
+    "AuthorId": 164,
+    "DateReleased": "3/8/1667",
+    "NumberOfPages": 153,
+    "ImageUrl": "http://dummyimage.com/233x151.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 122.34,
+    "Title": "Women of the Night (Yoru no onnatachi)",
+    "Author": "Ursa Standbrook",
+    "AuthorId": 165,
+    "DateReleased": "8/30/1752",
+    "NumberOfPages": 148,
+    "ImageUrl": "http://dummyimage.com/236x234.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 124.27,
+    "Title": "Client 9: The Rise and Fall of Eliot Spitzer",
+    "Author": "Carly Coales",
+    "AuthorId": 166,
+    "DateReleased": "2/14/1631",
+    "NumberOfPages": 224,
+    "ImageUrl": "http://dummyimage.com/103x197.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 129.02,
+    "Title": "Julius Caesar",
+    "Author": "Redford Manilo",
+    "AuthorId": 167,
+    "DateReleased": "10/1/1699",
+    "NumberOfPages": 238,
+    "ImageUrl": "http://dummyimage.com/230x119.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Horror|Mystery",
+    "Price": 24.39,
+    "Title": "Abominable Dr. Phibes, The",
+    "Author": "Leelah Streight",
+    "AuthorId": 168,
+    "DateReleased": "9/20/1653",
+    "NumberOfPages": 67,
+    "ImageUrl": "http://dummyimage.com/110x228.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 91.2,
+    "Title": "Wuthering Heights",
+    "Author": "Phylys Streak",
+    "AuthorId": 169,
+    "DateReleased": "1/2/1705",
+    "NumberOfPages": 255,
+    "ImageUrl": "http://dummyimage.com/118x184.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Action|Drama",
+    "Price": 96.59,
+    "Title": "Mountain Patrol (Kekexili)",
+    "Author": "Elias Behnecken",
+    "AuthorId": 170,
+    "DateReleased": "3/27/1653",
+    "NumberOfPages": 63,
+    "ImageUrl": "http://dummyimage.com/209x186.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Drama",
+    "Price": 43.18,
+    "Title": "Student, The (El estudiante)",
+    "Author": "Cullan Allam",
+    "AuthorId": 171,
+    "DateReleased": "8/26/1904",
+    "NumberOfPages": 288,
+    "ImageUrl": "http://dummyimage.com/174x157.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Action|Crime",
+    "Price": 84.7,
+    "Title": "Trick",
+    "Author": "Ame Thridgould",
+    "AuthorId": 172,
+    "DateReleased": "1/25/1821",
+    "NumberOfPages": 179,
+    "ImageUrl": "http://dummyimage.com/165x100.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 19.33,
+    "Title": "Windows",
+    "Author": "Curry Dunks",
+    "AuthorId": 173,
+    "DateReleased": "6/16/1866",
+    "NumberOfPages": 278,
+    "ImageUrl": "http://dummyimage.com/116x201.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Crime",
+    "Price": 43.94,
+    "Title": "Hellsinki (Rööperi)",
+    "Author": "Maurie Steddall",
+    "AuthorId": 174,
+    "DateReleased": "12/28/1877",
+    "NumberOfPages": 253,
+    "ImageUrl": "http://dummyimage.com/202x199.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 89.25,
+    "Title": "Ingmar Bergman Makes a Movie (Ingmar Bergman gör en film)",
+    "Author": "Lynnette Cecely",
+    "AuthorId": 175,
+    "DateReleased": "1/15/1800",
+    "NumberOfPages": 254,
+    "ImageUrl": "http://dummyimage.com/104x126.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Action|Comedy|Crime|Thriller",
+    "Price": 35.91,
+    "Title": "Ocean's Twelve",
+    "Author": "Brana Maciunas",
+    "AuthorId": 176,
+    "DateReleased": "1/14/1766",
+    "NumberOfPages": 303,
+    "ImageUrl": "http://dummyimage.com/221x148.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Adventure|Drama",
+    "Price": 92.76,
+    "Title": "Black Robe",
+    "Author": "Daveta Jouen",
+    "AuthorId": 177,
+    "DateReleased": "2/5/1774",
+    "NumberOfPages": 231,
+    "ImageUrl": "http://dummyimage.com/133x209.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Romance",
+    "Price": 106.58,
+    "Title": "Strawberry Blonde, The",
+    "Author": "Hinze Rosendahl",
+    "AuthorId": 178,
+    "DateReleased": "4/30/1736",
+    "NumberOfPages": 322,
+    "ImageUrl": "http://dummyimage.com/107x112.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 94.25,
+    "Title": "Downloaded",
+    "Author": "Bernardine Fogden",
+    "AuthorId": 179,
+    "DateReleased": "8/27/1984",
+    "NumberOfPages": 238,
+    "ImageUrl": "http://dummyimage.com/207x159.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Romance|Sci-Fi",
+    "Price": 73.4,
+    "Title": "Codependent Lesbian Space Alien Seeks Same",
+    "Author": "Aldin O'Shavlan",
+    "AuthorId": 180,
+    "DateReleased": "8/23/1904",
+    "NumberOfPages": 311,
+    "ImageUrl": "http://dummyimage.com/104x122.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 93.88,
+    "Title": "Sister Helen ",
+    "Author": "Udell Coltan",
+    "AuthorId": 181,
+    "DateReleased": "10/8/1956",
+    "NumberOfPages": 256,
+    "ImageUrl": "http://dummyimage.com/218x135.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 71.75,
+    "Title": "Punching the Clown",
+    "Author": "Reuben Ziemke",
+    "AuthorId": 182,
+    "DateReleased": "6/15/1699",
+    "NumberOfPages": 338,
+    "ImageUrl": "http://dummyimage.com/154x202.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 103.96,
+    "Title": "Visual Acoustics",
+    "Author": "Erma Hentzeler",
+    "AuthorId": 183,
+    "DateReleased": "5/23/1916",
+    "NumberOfPages": 261,
+    "ImageUrl": "http://dummyimage.com/210x235.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|War",
+    "Price": 86.47,
+    "Title": "John Rabe",
+    "Author": "Lu Sigert",
+    "AuthorId": 184,
+    "DateReleased": "2/17/1820",
+    "NumberOfPages": 181,
+    "ImageUrl": "http://dummyimage.com/135x197.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Crime",
+    "Price": 141.56,
+    "Title": "Poor White Trash",
+    "Author": "Lorne Mongenot",
+    "AuthorId": 185,
+    "DateReleased": "12/17/1646",
+    "NumberOfPages": 89,
+    "ImageUrl": "http://dummyimage.com/244x114.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Horror",
+    "Price": 140.88,
+    "Title": "Barrens, The",
+    "Author": "Roby Daleman",
+    "AuthorId": 186,
+    "DateReleased": "8/22/2005",
+    "NumberOfPages": 89,
+    "ImageUrl": "http://dummyimage.com/186x198.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy|Horror",
+    "Price": 64.0,
+    "Title": "Hell Baby",
+    "Author": "Zedekiah Raspison",
+    "AuthorId": 187,
+    "DateReleased": "8/22/1856",
+    "NumberOfPages": 60,
+    "ImageUrl": "http://dummyimage.com/228x120.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 62.46,
+    "Title": "Not as a Stranger",
+    "Author": "Beatrix Brockington",
+    "AuthorId": 188,
+    "DateReleased": "1/29/1994",
+    "NumberOfPages": 82,
+    "ImageUrl": "http://dummyimage.com/222x100.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 88.74,
+    "Title": "But Forever in My Mind",
+    "Author": "Benedicto Charlotte",
+    "AuthorId": 189,
+    "DateReleased": "2/5/1964",
+    "NumberOfPages": 178,
+    "ImageUrl": "http://dummyimage.com/113x153.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 48.31,
+    "Title": "Young One, The",
+    "Author": "Kaja Adacot",
+    "AuthorId": 190,
+    "DateReleased": "11/29/1883",
+    "NumberOfPages": 124,
+    "ImageUrl": "http://dummyimage.com/211x108.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Action|Adventure|Sci-Fi",
+    "Price": 108.87,
+    "Title": "Sky Captain and the World of Tomorrow",
+    "Author": "Jabez Lilburne",
+    "AuthorId": 191,
+    "DateReleased": "6/13/1942",
+    "NumberOfPages": 104,
+    "ImageUrl": "http://dummyimage.com/219x248.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 97.8,
+    "Title": "Ants in the Pants 2",
+    "Author": "Sheffy Rawnsley",
+    "AuthorId": 192,
+    "DateReleased": "8/11/1615",
+    "NumberOfPages": 98,
+    "ImageUrl": "http://dummyimage.com/205x170.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 18.77,
+    "Title": "LOL (Laughing Out Loud)",
+    "Author": "Panchito Locket",
+    "AuthorId": 193,
+    "DateReleased": "8/13/1641",
+    "NumberOfPages": 290,
+    "ImageUrl": "http://dummyimage.com/206x150.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Action",
+    "Price": 41.21,
+    "Title": "Two Rabbits (2 Coelhos)",
+    "Author": "Atalanta Sheridan",
+    "AuthorId": 194,
+    "DateReleased": "3/21/1892",
+    "NumberOfPages": 275,
+    "ImageUrl": "http://dummyimage.com/196x180.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama|War",
+    "Price": 95.23,
+    "Title": "Killing Fields, The",
+    "Author": "Marcella Capelin",
+    "AuthorId": 195,
+    "DateReleased": "1/23/1612",
+    "NumberOfPages": 71,
+    "ImageUrl": "http://dummyimage.com/220x237.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama|Musical",
+    "Price": 35.86,
+    "Title": "Soloist, The",
+    "Author": "Brnaby Tucknott",
+    "AuthorId": 196,
+    "DateReleased": "7/13/1797",
+    "NumberOfPages": 296,
+    "ImageUrl": "http://dummyimage.com/170x227.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|Musical",
+    "Price": 139.36,
+    "Title": "Marat/Sade",
+    "Author": "Chloette Richen",
+    "AuthorId": 197,
+    "DateReleased": "11/22/1938",
+    "NumberOfPages": 116,
+    "ImageUrl": "http://dummyimage.com/159x197.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 69.06,
+    "Title": "Buffalo '66 (a.k.a. Buffalo 66)",
+    "Author": "Carolus Isaac",
+    "AuthorId": 198,
+    "DateReleased": "1/16/1632",
+    "NumberOfPages": 131,
+    "ImageUrl": "http://dummyimage.com/137x200.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 96.24,
+    "Title": "50 Worst Movies Ever Made, The",
+    "Author": "Saunderson Canero",
+    "AuthorId": 199,
+    "DateReleased": "4/26/1796",
+    "NumberOfPages": 239,
+    "ImageUrl": "http://dummyimage.com/171x248.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 138.7,
+    "Title": "Chicago Cab (a.k.a. Hellcab)",
+    "Author": "Pauline Tointon",
+    "AuthorId": 200,
+    "DateReleased": "10/13/1836",
+    "NumberOfPages": 323,
+    "ImageUrl": "http://dummyimage.com/241x193.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Sci-Fi",
+    "Price": 101.41,
+    "Title": "Hello Down There",
+    "Author": "Damaris Budgen",
+    "AuthorId": 201,
+    "DateReleased": "9/13/1863",
+    "NumberOfPages": 129,
+    "ImageUrl": "http://dummyimage.com/124x196.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Horror|Mystery",
+    "Price": 84.75,
+    "Title": "Cheerleader Camp",
+    "Author": "Leroy Bapty",
+    "AuthorId": 202,
+    "DateReleased": "6/18/1648",
+    "NumberOfPages": 108,
+    "ImageUrl": "http://dummyimage.com/116x241.png/dddddd/000000"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 78.93,
+    "Title": "Hitler's Children",
+    "Author": "Lissi Semken",
+    "AuthorId": 203,
+    "DateReleased": "4/21/1700",
+    "NumberOfPages": 111,
+    "ImageUrl": "http://dummyimage.com/119x110.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 61.73,
+    "Title": "Ricky Gervais Live 2: Politics",
+    "Author": "Dulsea Frisch",
+    "AuthorId": 204,
+    "DateReleased": "2/12/1640",
+    "NumberOfPages": 61,
+    "ImageUrl": "http://dummyimage.com/157x136.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Adventure",
+    "Price": 35.15,
+    "Title": "The Hunters",
+    "Author": "Clayborne Bendle",
+    "AuthorId": 205,
+    "DateReleased": "6/25/1639",
+    "NumberOfPages": 109,
+    "ImageUrl": "http://dummyimage.com/173x195.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama|Sci-Fi",
+    "Price": 134.67,
+    "Title": "Last Night",
+    "Author": "Mickie Jane",
+    "AuthorId": 206,
+    "DateReleased": "12/15/1699",
+    "NumberOfPages": 94,
+    "ImageUrl": "http://dummyimage.com/166x192.png/dddddd/000000"
+  },
+  {
+    "Category": "Drama|Musical",
+    "Price": 106.94,
+    "Title": "Privilege",
+    "Author": "Darin Smalles",
+    "AuthorId": 207,
+    "DateReleased": "8/25/1619",
+    "NumberOfPages": 264,
+    "ImageUrl": "http://dummyimage.com/170x158.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Adventure|Comedy|Western",
+    "Price": 95.72,
+    "Title": "Viva María!",
+    "Author": "Benedetto Daftor",
+    "AuthorId": 208,
+    "DateReleased": "12/9/1652",
+    "NumberOfPages": 248,
+    "ImageUrl": "http://dummyimage.com/246x205.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|Horror|Mystery|Thriller",
+    "Price": 94.18,
+    "Title": "The Uninvited Guest",
+    "Author": "Cal Charlton",
+    "AuthorId": 209,
+    "DateReleased": "10/7/1782",
+    "NumberOfPages": 120,
+    "ImageUrl": "http://dummyimage.com/131x188.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Action|Adventure|Thriller",
+    "Price": 16.29,
+    "Title": "Executive Decision",
+    "Author": "Ulla Zoane",
+    "AuthorId": 210,
+    "DateReleased": "5/7/1602",
+    "NumberOfPages": 252,
+    "ImageUrl": "http://dummyimage.com/157x104.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Documentary|War",
+    "Price": 26.3,
+    "Title": "S21: The Khmer Rouge Death Machine (S-21, la machine de mort Khmère rouge)",
+    "Author": "Jenilee Caswell",
+    "AuthorId": 211,
+    "DateReleased": "3/17/1912",
+    "NumberOfPages": 264,
+    "ImageUrl": "http://dummyimage.com/191x191.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 132.14,
+    "Title": "Hell (L'enfer)",
+    "Author": "Lorenza Stanaway",
+    "AuthorId": 212,
+    "DateReleased": "6/5/1646",
+    "NumberOfPages": 338,
+    "ImageUrl": "http://dummyimage.com/144x122.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 34.37,
+    "Title": "Kisses",
+    "Author": "Jamesy Somers",
+    "AuthorId": 213,
+    "DateReleased": "11/19/1825",
+    "NumberOfPages": 62,
+    "ImageUrl": "http://dummyimage.com/208x212.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Drama",
+    "Price": 51.58,
+    "Title": "Belizaire the Cajun",
+    "Author": "Evaleen Edmondson",
+    "AuthorId": 214,
+    "DateReleased": "12/30/1779",
+    "NumberOfPages": 228,
+    "ImageUrl": "http://dummyimage.com/238x146.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 71.15,
+    "Title": "Thirteen",
+    "Author": "Currey Barfford",
+    "AuthorId": 215,
+    "DateReleased": "5/19/1742",
+    "NumberOfPages": 208,
+    "ImageUrl": "http://dummyimage.com/198x214.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 23.33,
+    "Title": "Star Maker, The (Uomo delle stelle, L')",
+    "Author": "Guinna Eccleshall",
+    "AuthorId": 216,
+    "DateReleased": "12/2/1757",
+    "NumberOfPages": 56,
+    "ImageUrl": "http://dummyimage.com/118x185.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Children|Drama",
+    "Price": 99.09,
+    "Title": "I Wish (Kiseki)",
+    "Author": "Lacie Charters",
+    "AuthorId": 217,
+    "DateReleased": "8/4/1632",
+    "NumberOfPages": 160,
+    "ImageUrl": "http://dummyimage.com/137x246.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Horror|Thriller",
+    "Price": 118.12,
+    "Title": "Deaths of Ian Stone, The",
+    "Author": "Blinni Dyas",
+    "AuthorId": 218,
+    "DateReleased": "1/29/1965",
+    "NumberOfPages": 188,
+    "ImageUrl": "http://dummyimage.com/184x140.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 15.22,
+    "Title": "Stranger, The (Straniero, Lo)",
+    "Author": "Lurette Arnaldi",
+    "AuthorId": 219,
+    "DateReleased": "3/18/1712",
+    "NumberOfPages": 228,
+    "ImageUrl": "http://dummyimage.com/101x158.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 104.92,
+    "Title": "Flamingo Kid, The",
+    "Author": "Ingaborg Crannell",
+    "AuthorId": 220,
+    "DateReleased": "10/11/1732",
+    "NumberOfPages": 111,
+    "ImageUrl": "http://dummyimage.com/168x243.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 90.06,
+    "Title": "Hustler, The",
+    "Author": "Micheil Comiam",
+    "AuthorId": 221,
+    "DateReleased": "3/16/1984",
+    "NumberOfPages": 208,
+    "ImageUrl": "http://dummyimage.com/101x221.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Thriller",
+    "Price": 119.95,
+    "Title": "Calling, The",
+    "Author": "Ruttger Ridgedell",
+    "AuthorId": 222,
+    "DateReleased": "9/7/1764",
+    "NumberOfPages": 174,
+    "ImageUrl": "http://dummyimage.com/151x206.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy|Romance",
+    "Price": 63.44,
+    "Title": "Lisbela e o Prisioneiro (Lisbela and the Prisoner)",
+    "Author": "Stacee Gaskamp",
+    "AuthorId": 223,
+    "DateReleased": "12/11/1625",
+    "NumberOfPages": 110,
+    "ImageUrl": "http://dummyimage.com/237x122.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Crime|Drama",
+    "Price": 113.17,
+    "Title": "The Hatchet Man",
+    "Author": "Kingsly Spink",
+    "AuthorId": 224,
+    "DateReleased": "5/21/1776",
+    "NumberOfPages": 307,
+    "ImageUrl": "http://dummyimage.com/246x235.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama|Musical",
+    "Price": 31.5,
+    "Title": "Give My Regards to Broad Street",
+    "Author": "Tiphani Haskell",
+    "AuthorId": 225,
+    "DateReleased": "5/19/1628",
+    "NumberOfPages": 142,
+    "ImageUrl": "http://dummyimage.com/110x232.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Action|Comedy",
+    "Price": 143.12,
+    "Title": "Wrongfully Accused",
+    "Author": "Fredric Polding",
+    "AuthorId": 226,
+    "DateReleased": "7/15/1757",
+    "NumberOfPages": 151,
+    "ImageUrl": "http://dummyimage.com/182x143.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Romance",
+    "Price": 121.19,
+    "Title": "For Love or Money",
+    "Author": "Rhodie Kingh",
+    "AuthorId": 227,
+    "DateReleased": "4/27/1951",
+    "NumberOfPages": 169,
+    "ImageUrl": "http://dummyimage.com/218x105.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama|Musical",
+    "Price": 144.17,
+    "Title": "Beyond the Sea",
+    "Author": "Ophelie Cheale",
+    "AuthorId": 228,
+    "DateReleased": "6/8/1830",
+    "NumberOfPages": 336,
+    "ImageUrl": "http://dummyimage.com/232x176.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Crime|Drama",
+    "Price": 37.48,
+    "Title": "Crime and Punishment",
+    "Author": "Vincents Pudge",
+    "AuthorId": 229,
+    "DateReleased": "11/22/1993",
+    "NumberOfPages": 317,
+    "ImageUrl": "http://dummyimage.com/183x234.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 17.42,
+    "Title": "Snow Flower and the Secret Fan",
+    "Author": "Yvette Strood",
+    "AuthorId": 230,
+    "DateReleased": "4/1/1803",
+    "NumberOfPages": 138,
+    "ImageUrl": "http://dummyimage.com/229x173.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Action|Drama|War|Western",
+    "Price": 83.09,
+    "Title": "I Will Fight No More Forever",
+    "Author": "Melanie Shanklin",
+    "AuthorId": 231,
+    "DateReleased": "7/13/1642",
+    "NumberOfPages": 117,
+    "ImageUrl": "http://dummyimage.com/109x181.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 143.81,
+    "Title": "Apple Jack",
+    "Author": "Tera Bird",
+    "AuthorId": 232,
+    "DateReleased": "10/28/1665",
+    "NumberOfPages": 146,
+    "ImageUrl": "http://dummyimage.com/208x159.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Drama",
+    "Price": 106.13,
+    "Title": "Beyond the Lights",
+    "Author": "Benji Laxston",
+    "AuthorId": 233,
+    "DateReleased": "12/16/1764",
+    "NumberOfPages": 350,
+    "ImageUrl": "http://dummyimage.com/168x241.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 72.12,
+    "Title": "Delicate Delinquent, The",
+    "Author": "Wilbert Allnatt",
+    "AuthorId": 234,
+    "DateReleased": "6/27/1893",
+    "NumberOfPages": 153,
+    "ImageUrl": "http://dummyimage.com/233x153.png/dddddd/000000"
+  },
+  {
+    "Category": "Western",
+    "Price": 37.13,
+    "Title": "Cimarron Kid, The",
+    "Author": "Hagan Hambatch",
+    "AuthorId": 235,
+    "DateReleased": "11/30/1815",
+    "NumberOfPages": 241,
+    "ImageUrl": "http://dummyimage.com/187x250.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 40.02,
+    "Title": "Tribute",
+    "Author": "Helsa Storck",
+    "AuthorId": 236,
+    "DateReleased": "12/7/1801",
+    "NumberOfPages": 197,
+    "ImageUrl": "http://dummyimage.com/214x152.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Action|Adventure|Animation|Comedy|Fantasy|Mystery|Sci-Fi",
+    "Price": 137.79,
+    "Title": "Aqua Teen Hunger Force Colon Movie Film for Theaters",
+    "Author": "Faun Agdahl",
+    "AuthorId": 237,
+    "DateReleased": "12/10/1624",
+    "NumberOfPages": 262,
+    "ImageUrl": "http://dummyimage.com/198x222.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Horror|Thriller",
+    "Price": 108.04,
+    "Title": "Raising Cain",
+    "Author": "Mahmud Venturoli",
+    "AuthorId": 238,
+    "DateReleased": "11/3/1754",
+    "NumberOfPages": 249,
+    "ImageUrl": "http://dummyimage.com/185x131.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 18.08,
+    "Title": "Mac",
+    "Author": "Fionnula Kingsbury",
+    "AuthorId": 239,
+    "DateReleased": "11/14/1973",
+    "NumberOfPages": 142,
+    "ImageUrl": "http://dummyimage.com/243x218.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 78.53,
+    "Title": "Marie and Bruce",
+    "Author": "Trescha Dunks",
+    "AuthorId": 240,
+    "DateReleased": "2/23/1856",
+    "NumberOfPages": 341,
+    "ImageUrl": "http://dummyimage.com/232x144.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Mystery",
+    "Price": 83.95,
+    "Title": "Moonlight Murder",
+    "Author": "Latrina Hounsham",
+    "AuthorId": 241,
+    "DateReleased": "10/28/1626",
+    "NumberOfPages": 221,
+    "ImageUrl": "http://dummyimage.com/215x168.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama|Fantasy|Romance",
+    "Price": 118.29,
+    "Title": "Arizona Dream",
+    "Author": "Llewellyn McCleary",
+    "AuthorId": 242,
+    "DateReleased": "9/21/1884",
+    "NumberOfPages": 50,
+    "ImageUrl": "http://dummyimage.com/143x160.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama|Fantasy",
+    "Price": 58.53,
+    "Title": "Teen Spirit",
+    "Author": "Melloney Nisbith",
+    "AuthorId": 243,
+    "DateReleased": "12/1/1863",
+    "NumberOfPages": 78,
+    "ImageUrl": "http://dummyimage.com/121x219.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Action|Comedy|Musical",
+    "Price": 116.4,
+    "Title": "Blues Brothers 2000",
+    "Author": "Ronica Lauritzen",
+    "AuthorId": 244,
+    "DateReleased": "11/23/1934",
+    "NumberOfPages": 216,
+    "ImageUrl": "http://dummyimage.com/164x185.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Horror",
+    "Price": 38.56,
+    "Title": "Nightmare on Elm Street 5: The Dream Child, A",
+    "Author": "Karole Corbin",
+    "AuthorId": 245,
+    "DateReleased": "11/15/1952",
+    "NumberOfPages": 181,
+    "ImageUrl": "http://dummyimage.com/188x182.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Adventure|Animation|Children|Fantasy",
+    "Price": 57.49,
+    "Title": "Cat Returns, The (Neko no ongaeshi)",
+    "Author": "Brinna Paddle",
+    "AuthorId": 246,
+    "DateReleased": "5/5/1869",
+    "NumberOfPages": 319,
+    "ImageUrl": "http://dummyimage.com/128x105.png/dddddd/000000"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 53.66,
+    "Title": "Made for Each Other",
+    "Author": "Hetti Rheam",
+    "AuthorId": 247,
+    "DateReleased": "2/20/1631",
+    "NumberOfPages": 63,
+    "ImageUrl": "http://dummyimage.com/179x121.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|War",
+    "Price": 87.8,
+    "Title": "Best Defense",
+    "Author": "Rosa Pauley",
+    "AuthorId": 248,
+    "DateReleased": "9/5/1909",
+    "NumberOfPages": 150,
+    "ImageUrl": "http://dummyimage.com/116x127.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Action|Children|Fantasy|Sci-Fi",
+    "Price": 92.99,
+    "Title": "Journey to the Center of the Earth",
+    "Author": "Leonanie Laffranconi",
+    "AuthorId": 249,
+    "DateReleased": "5/8/1807",
+    "NumberOfPages": 349,
+    "ImageUrl": "http://dummyimage.com/200x117.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 17.97,
+    "Title": "Bigamist, The",
+    "Author": "Jorrie Jencey",
+    "AuthorId": 250,
+    "DateReleased": "8/18/1702",
+    "NumberOfPages": 69,
+    "ImageUrl": "http://dummyimage.com/197x138.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Documentary|Drama",
+    "Price": 35.03,
+    "Title": "David Holzman's Diary",
+    "Author": "Cloris Pulbrook",
+    "AuthorId": 251,
+    "DateReleased": "10/12/1984",
+    "NumberOfPages": 159,
+    "ImageUrl": "http://dummyimage.com/181x147.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Crime",
+    "Price": 116.19,
+    "Title": "Caught Up",
+    "Author": "Sherie Lindl",
+    "AuthorId": 252,
+    "DateReleased": "1/7/1710",
+    "NumberOfPages": 285,
+    "ImageUrl": "http://dummyimage.com/190x200.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 72.25,
+    "Title": "Faithful",
+    "Author": "Dorothee Woodison",
+    "AuthorId": 253,
+    "DateReleased": "1/2/2004",
+    "NumberOfPages": 272,
+    "ImageUrl": "http://dummyimage.com/125x124.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Musical",
+    "Price": 57.82,
+    "Title": "History of the World: Part I",
+    "Author": "Pearle Wickwarth",
+    "AuthorId": 254,
+    "DateReleased": "1/3/1713",
+    "NumberOfPages": 299,
+    "ImageUrl": "http://dummyimage.com/114x128.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 116.31,
+    "Title": "Entertainer, The",
+    "Author": "Rosco Kingsworth",
+    "AuthorId": 255,
+    "DateReleased": "3/26/1660",
+    "NumberOfPages": 115,
+    "ImageUrl": "http://dummyimage.com/190x226.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Musical",
+    "Price": 43.61,
+    "Title": "Harum Scarum",
+    "Author": "Olivia Casin",
+    "AuthorId": 256,
+    "DateReleased": "3/5/1971",
+    "NumberOfPages": 340,
+    "ImageUrl": "http://dummyimage.com/206x174.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Romance",
+    "Price": 79.61,
+    "Title": "Shoppen ",
+    "Author": "Gardiner Morigan",
+    "AuthorId": 257,
+    "DateReleased": "12/23/1888",
+    "NumberOfPages": 179,
+    "ImageUrl": "http://dummyimage.com/119x184.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy|Documentary",
+    "Price": 97.38,
+    "Title": "David Cross: Bigger & Blackerer",
+    "Author": "Kylynn Abbotts",
+    "AuthorId": 258,
+    "DateReleased": "4/27/1618",
+    "NumberOfPages": 302,
+    "ImageUrl": "http://dummyimage.com/213x187.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Musical",
+    "Price": 135.16,
+    "Title": "Girl Walk: All Day",
+    "Author": "Ilsa Listone",
+    "AuthorId": 259,
+    "DateReleased": "10/24/1933",
+    "NumberOfPages": 57,
+    "ImageUrl": "http://dummyimage.com/222x233.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Horror",
+    "Price": 108.01,
+    "Title": "Detention",
+    "Author": "Linette O'Driscole",
+    "AuthorId": 260,
+    "DateReleased": "8/30/1968",
+    "NumberOfPages": 252,
+    "ImageUrl": "http://dummyimage.com/172x198.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 90.67,
+    "Title": "Voices of Iraq",
+    "Author": "Geoffrey McMillam",
+    "AuthorId": 261,
+    "DateReleased": "9/8/1861",
+    "NumberOfPages": 335,
+    "ImageUrl": "http://dummyimage.com/127x247.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Horror",
+    "Price": 94.98,
+    "Title": "Stan Helsing",
+    "Author": "Alvis Kyndred",
+    "AuthorId": 262,
+    "DateReleased": "8/26/1722",
+    "NumberOfPages": 150,
+    "ImageUrl": "http://dummyimage.com/124x203.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Documentary|War",
+    "Price": 40.88,
+    "Title": "Nanking",
+    "Author": "Nevsa Scarborough",
+    "AuthorId": 263,
+    "DateReleased": "11/30/1745",
+    "NumberOfPages": 92,
+    "ImageUrl": "http://dummyimage.com/184x182.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 117.95,
+    "Title": "Fruitvale Station",
+    "Author": "Randell O'Nowlan",
+    "AuthorId": 264,
+    "DateReleased": "11/2/1646",
+    "NumberOfPages": 173,
+    "ImageUrl": "http://dummyimage.com/172x198.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Adventure|Comedy|Fantasy",
+    "Price": 100.05,
+    "Title": "Son of Kong, The",
+    "Author": "Ruth Whewell",
+    "AuthorId": 265,
+    "DateReleased": "2/3/1936",
+    "NumberOfPages": 256,
+    "ImageUrl": "http://dummyimage.com/194x208.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 86.31,
+    "Title": "O Último Mergulho",
+    "Author": "Bobbie Letty",
+    "AuthorId": 266,
+    "DateReleased": "1/3/1734",
+    "NumberOfPages": 136,
+    "ImageUrl": "http://dummyimage.com/188x161.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Western",
+    "Price": 46.03,
+    "Title": "Paleface, The",
+    "Author": "Skipton Petrushanko",
+    "AuthorId": 267,
+    "DateReleased": "1/16/1960",
+    "NumberOfPages": 153,
+    "ImageUrl": "http://dummyimage.com/104x233.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 131.01,
+    "Title": "Ginger and Fred (Ginger e Fred)",
+    "Author": "Merrile Glassopp",
+    "AuthorId": 268,
+    "DateReleased": "11/24/1926",
+    "NumberOfPages": 318,
+    "ImageUrl": "http://dummyimage.com/247x134.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama|Romance",
+    "Price": 67.07,
+    "Title": "Unfinished Song (Song for Marion)",
+    "Author": "Gabriello Sotworth",
+    "AuthorId": 269,
+    "DateReleased": "5/6/1640",
+    "NumberOfPages": 260,
+    "ImageUrl": "http://dummyimage.com/103x142.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy|Crime|Drama|Mystery",
+    "Price": 111.73,
+    "Title": "Murder She Said",
+    "Author": "Gabi Schach",
+    "AuthorId": 270,
+    "DateReleased": "5/5/1931",
+    "NumberOfPages": 105,
+    "ImageUrl": "http://dummyimage.com/230x190.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Children|Drama|Thriller",
+    "Price": 56.41,
+    "Title": "Drishyam",
+    "Author": "Irina Le Monnier",
+    "AuthorId": 271,
+    "DateReleased": "5/20/1843",
+    "NumberOfPages": 187,
+    "ImageUrl": "http://dummyimage.com/190x240.png/dddddd/000000"
+  },
+  {
+    "Category": "Horror|Thriller",
+    "Price": 108.12,
+    "Title": "Killer Holiday",
+    "Author": "Derry Ipsly",
+    "AuthorId": 272,
+    "DateReleased": "5/20/1798",
+    "NumberOfPages": 240,
+    "ImageUrl": "http://dummyimage.com/182x213.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Romance",
+    "Price": 60.75,
+    "Title": "I Give It a Year",
+    "Author": "Laurent Labeuil",
+    "AuthorId": 273,
+    "DateReleased": "8/5/1791",
+    "NumberOfPages": 69,
+    "ImageUrl": "http://dummyimage.com/114x131.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 100.03,
+    "Title": "When the Last Sword is Drawn (Mibu gishi den)",
+    "Author": "Bunni Braiden",
+    "AuthorId": 274,
+    "DateReleased": "10/9/1649",
+    "NumberOfPages": 348,
+    "ImageUrl": "http://dummyimage.com/106x241.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 27.62,
+    "Title": "Unhook the Stars",
+    "Author": "Marielle Dolby",
+    "AuthorId": 275,
+    "DateReleased": "2/14/1983",
+    "NumberOfPages": 68,
+    "ImageUrl": "http://dummyimage.com/130x181.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Crime",
+    "Price": 23.27,
+    "Title": "Two-Way Stretch",
+    "Author": "Cam Agglione",
+    "AuthorId": 276,
+    "DateReleased": "12/31/1954",
+    "NumberOfPages": 257,
+    "ImageUrl": "http://dummyimage.com/236x193.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Romance",
+    "Price": 83.95,
+    "Title": "Barcelona",
+    "Author": "Ellsworth Blackwood",
+    "AuthorId": 277,
+    "DateReleased": "2/15/1981",
+    "NumberOfPages": 84,
+    "ImageUrl": "http://dummyimage.com/240x169.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Crime|Drama|Thriller",
+    "Price": 39.6,
+    "Title": "Limey, The",
+    "Author": "Paolo Loakes",
+    "AuthorId": 278,
+    "DateReleased": "11/18/1852",
+    "NumberOfPages": 260,
+    "ImageUrl": "http://dummyimage.com/191x107.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 97.67,
+    "Title": "Ollin oppivuodet",
+    "Author": "Nixie Fisbey",
+    "AuthorId": 279,
+    "DateReleased": "10/27/1605",
+    "NumberOfPages": 181,
+    "ImageUrl": "http://dummyimage.com/150x224.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|Thriller",
+    "Price": 67.5,
+    "Title": "Gone",
+    "Author": "Alysa Lukovic",
+    "AuthorId": 280,
+    "DateReleased": "4/18/1830",
+    "NumberOfPages": 221,
+    "ImageUrl": "http://dummyimage.com/176x199.png/dddddd/000000"
+  },
+  {
+    "Category": "Action|Comedy|Crime",
+    "Price": 80.49,
+    "Title": "Non-Stop",
+    "Author": "Hamil Oakes",
+    "AuthorId": 281,
+    "DateReleased": "10/10/1699",
+    "NumberOfPages": 52,
+    "ImageUrl": "http://dummyimage.com/178x146.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Documentary|War",
+    "Price": 19.12,
+    "Title": "War Photographer",
+    "Author": "Izaak Takos",
+    "AuthorId": 282,
+    "DateReleased": "10/7/1869",
+    "NumberOfPages": 307,
+    "ImageUrl": "http://dummyimage.com/150x151.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 46.99,
+    "Title": "Spanish Fly",
+    "Author": "Wilt Lukash",
+    "AuthorId": 283,
+    "DateReleased": "6/30/1603",
+    "NumberOfPages": 200,
+    "ImageUrl": "http://dummyimage.com/150x179.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 46.43,
+    "Title": "Fuck You, Goethe (Fack Ju Göhte)",
+    "Author": "Ranna Louth",
+    "AuthorId": 284,
+    "DateReleased": "6/13/1715",
+    "NumberOfPages": 130,
+    "ImageUrl": "http://dummyimage.com/128x193.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Children|Comedy",
+    "Price": 69.82,
+    "Title": "Heavyweights (Heavy Weights)",
+    "Author": "Walther O'Scollain",
+    "AuthorId": 285,
+    "DateReleased": "1/3/1703",
+    "NumberOfPages": 251,
+    "ImageUrl": "http://dummyimage.com/170x189.png/dddddd/000000"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 109.19,
+    "Title": "Hoop Realities",
+    "Author": "Davie Treen",
+    "AuthorId": 286,
+    "DateReleased": "12/9/1713",
+    "NumberOfPages": 196,
+    "ImageUrl": "http://dummyimage.com/174x209.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 97.2,
+    "Title": "Creation",
+    "Author": "Logan Batten",
+    "AuthorId": 287,
+    "DateReleased": "12/30/1819",
+    "NumberOfPages": 111,
+    "ImageUrl": "http://dummyimage.com/249x175.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Adventure|Animation|Comedy|Fantasy|Romance",
+    "Price": 36.69,
+    "Title": "Delgo",
+    "Author": "Duncan Patmore",
+    "AuthorId": 288,
+    "DateReleased": "11/12/1742",
+    "NumberOfPages": 261,
+    "ImageUrl": "http://dummyimage.com/249x171.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Action|Adventure|Sci-Fi|Thriller",
+    "Price": 23.63,
+    "Title": "Star Trek: First Contact",
+    "Author": "Clarissa De Cruze",
+    "AuthorId": 289,
+    "DateReleased": "2/20/1607",
+    "NumberOfPages": 215,
+    "ImageUrl": "http://dummyimage.com/243x239.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 42.86,
+    "Title": "Close to Home (Karov La Bayit)",
+    "Author": "Vaughn Arling",
+    "AuthorId": 290,
+    "DateReleased": "8/12/1847",
+    "NumberOfPages": 278,
+    "ImageUrl": "http://dummyimage.com/166x243.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama|War",
+    "Price": 59.32,
+    "Title": "Yesterday's Enemy",
+    "Author": "Heloise O'Cosgra",
+    "AuthorId": 291,
+    "DateReleased": "6/8/1703",
+    "NumberOfPages": 107,
+    "ImageUrl": "http://dummyimage.com/227x165.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|Horror",
+    "Price": 20.54,
+    "Title": "Possessed",
+    "Author": "Malinda Gianetti",
+    "AuthorId": 292,
+    "DateReleased": "9/2/1621",
+    "NumberOfPages": 175,
+    "ImageUrl": "http://dummyimage.com/236x237.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Crime|Drama|Horror|Mystery|Thriller",
+    "Price": 96.66,
+    "Title": "Hole, The",
+    "Author": "Julia Godly",
+    "AuthorId": 293,
+    "DateReleased": "2/1/1828",
+    "NumberOfPages": 142,
+    "ImageUrl": "http://dummyimage.com/159x238.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 47.44,
+    "Title": "One Direction: This Is Us",
+    "Author": "Carmelia Duddle",
+    "AuthorId": 294,
+    "DateReleased": "11/28/1973",
+    "NumberOfPages": 222,
+    "ImageUrl": "http://dummyimage.com/141x173.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Action|Animation|Comedy|Horror",
+    "Price": 75.31,
+    "Title": "Dead Fury",
+    "Author": "Ricard Sarfass",
+    "AuthorId": 295,
+    "DateReleased": "5/17/1757",
+    "NumberOfPages": 124,
+    "ImageUrl": "http://dummyimage.com/222x162.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 20.11,
+    "Title": "More American Graffiti",
+    "Author": "Pearl Gurys",
+    "AuthorId": 296,
+    "DateReleased": "11/3/1723",
+    "NumberOfPages": 337,
+    "ImageUrl": "http://dummyimage.com/144x174.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Action|Comedy|Drama",
+    "Price": 90.17,
+    "Title": "Cowboy Way, The",
+    "Author": "Anselm Burchmore",
+    "AuthorId": 297,
+    "DateReleased": "9/4/1659",
+    "NumberOfPages": 272,
+    "ImageUrl": "http://dummyimage.com/157x146.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Action|Adventure|War",
+    "Price": 137.33,
+    "Title": "Deadly Prey",
+    "Author": "Cassie Hamments",
+    "AuthorId": 298,
+    "DateReleased": "2/8/1816",
+    "NumberOfPages": 261,
+    "ImageUrl": "http://dummyimage.com/143x102.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Horror",
+    "Price": 91.31,
+    "Title": "Shiver of the Vampires, The (Frisson des vampires, Le)",
+    "Author": "Germain Mennithorp",
+    "AuthorId": 299,
+    "DateReleased": "10/15/1617",
+    "NumberOfPages": 105,
+    "ImageUrl": "http://dummyimage.com/244x235.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 39.94,
+    "Title": "Iceberg, L'",
+    "Author": "Duke Degli Abbati",
+    "AuthorId": 300,
+    "DateReleased": "4/22/1694",
+    "NumberOfPages": 183,
+    "ImageUrl": "http://dummyimage.com/214x216.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 75.48,
+    "Title": "Magnificent Obsession",
+    "Author": "Nadia Megroff",
+    "AuthorId": 301,
+    "DateReleased": "6/1/1618",
+    "NumberOfPages": 226,
+    "ImageUrl": "http://dummyimage.com/233x113.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 50.58,
+    "Title": "Across to Singapore",
+    "Author": "Hyman Batha",
+    "AuthorId": 302,
+    "DateReleased": "1/9/1699",
+    "NumberOfPages": 327,
+    "ImageUrl": "http://dummyimage.com/108x203.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Action|Crime|Drama|Thriller",
+    "Price": 137.09,
+    "Title": "Kill Switch",
+    "Author": "Jarrod Udey",
+    "AuthorId": 303,
+    "DateReleased": "9/6/1734",
+    "NumberOfPages": 200,
+    "ImageUrl": "http://dummyimage.com/178x106.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama|Thriller",
+    "Price": 116.95,
+    "Title": "Murk (Mørke)",
+    "Author": "Gianni Bande",
+    "AuthorId": 304,
+    "DateReleased": "9/23/1627",
+    "NumberOfPages": 269,
+    "ImageUrl": "http://dummyimage.com/136x182.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama|Romance",
+    "Price": 103.98,
+    "Title": "Eat Drink Man Woman (Yin shi nan nu)",
+    "Author": "Alejoa Snepp",
+    "AuthorId": 305,
+    "DateReleased": "5/4/1669",
+    "NumberOfPages": 196,
+    "ImageUrl": "http://dummyimage.com/173x192.png/dddddd/000000"
+  },
+  {
+    "Category": "Action|Adventure|Comedy|Crime",
+    "Price": 88.44,
+    "Title": "Crime Busters",
+    "Author": "Abdul Braidford",
+    "AuthorId": 306,
+    "DateReleased": "3/5/1993",
+    "NumberOfPages": 309,
+    "ImageUrl": "http://dummyimage.com/232x248.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 122.26,
+    "Title": "Stories We Tell",
+    "Author": "Monika Salvage",
+    "AuthorId": 307,
+    "DateReleased": "2/11/1674",
+    "NumberOfPages": 119,
+    "ImageUrl": "http://dummyimage.com/100x207.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Action|Comedy",
+    "Price": 29.75,
+    "Title": "Grind",
+    "Author": "Clyve Hadland",
+    "AuthorId": 308,
+    "DateReleased": "3/11/1977",
+    "NumberOfPages": 54,
+    "ImageUrl": "http://dummyimage.com/156x110.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Romance|Western",
+    "Price": 43.39,
+    "Title": "Lawless Frontier, The",
+    "Author": "Carny Coyett",
+    "AuthorId": 309,
+    "DateReleased": "9/5/1933",
+    "NumberOfPages": 311,
+    "ImageUrl": "http://dummyimage.com/202x220.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 65.0,
+    "Title": "Cry, the Beloved Country",
+    "Author": "Katti Alflatt",
+    "AuthorId": 310,
+    "DateReleased": "6/12/1702",
+    "NumberOfPages": 219,
+    "ImageUrl": "http://dummyimage.com/201x126.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama|Romance|War",
+    "Price": 39.82,
+    "Title": "I Served the King of England (Obsluhoval jsem anglického krále)",
+    "Author": "Heinrik Ethelston",
+    "AuthorId": 311,
+    "DateReleased": "8/18/1955",
+    "NumberOfPages": 167,
+    "ImageUrl": "http://dummyimage.com/134x224.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Fantasy|Horror",
+    "Price": 16.6,
+    "Title": "Livid (Livide)",
+    "Author": "Faunie Bellwood",
+    "AuthorId": 312,
+    "DateReleased": "4/7/1933",
+    "NumberOfPages": 267,
+    "ImageUrl": "http://dummyimage.com/189x120.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Romance",
+    "Price": 128.24,
+    "Title": "New in Town",
+    "Author": "Michale Bowne",
+    "AuthorId": 313,
+    "DateReleased": "1/22/1735",
+    "NumberOfPages": 280,
+    "ImageUrl": "http://dummyimage.com/142x128.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|Mystery|Thriller",
+    "Price": 120.39,
+    "Title": "Ask Me Anything",
+    "Author": "Christen Pflieger",
+    "AuthorId": 314,
+    "DateReleased": "5/9/1968",
+    "NumberOfPages": 323,
+    "ImageUrl": "http://dummyimage.com/128x185.png/dddddd/000000"
+  },
+  {
+    "Category": "Adventure|Drama|Romance",
+    "Price": 113.03,
+    "Title": "Spanish Main, The",
+    "Author": "Miguela Heggadon",
+    "AuthorId": 315,
+    "DateReleased": "3/9/1812",
+    "NumberOfPages": 269,
+    "ImageUrl": "http://dummyimage.com/243x176.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 60.85,
+    "Title": "Bed of Roses",
+    "Author": "Davey Happs",
+    "AuthorId": 316,
+    "DateReleased": "9/15/1853",
+    "NumberOfPages": 297,
+    "ImageUrl": "http://dummyimage.com/248x203.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Adventure|Drama|Sci-Fi",
+    "Price": 77.05,
+    "Title": "Guest from the Future (Gostya iz buduschego)",
+    "Author": "Theodoric Bertomeu",
+    "AuthorId": 317,
+    "DateReleased": "10/2/1684",
+    "NumberOfPages": 71,
+    "ImageUrl": "http://dummyimage.com/133x230.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 105.47,
+    "Title": "Ennui, L'",
+    "Author": "Abigael Ennew",
+    "AuthorId": 318,
+    "DateReleased": "12/11/1899",
+    "NumberOfPages": 271,
+    "ImageUrl": "http://dummyimage.com/161x206.png/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 38.03,
+    "Title": "Real Women Have Curves",
+    "Author": "Cecily Jeggo",
+    "AuthorId": 319,
+    "DateReleased": "9/10/1818",
+    "NumberOfPages": 238,
+    "ImageUrl": "http://dummyimage.com/199x151.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama|War",
+    "Price": 99.41,
+    "Title": "Alexandra (Aleksandra)",
+    "Author": "Jenna Pincked",
+    "AuthorId": 320,
+    "DateReleased": "6/30/1609",
+    "NumberOfPages": 273,
+    "ImageUrl": "http://dummyimage.com/144x182.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Crime|Mystery|Romance|Thriller",
+    "Price": 96.81,
+    "Title": "Charade",
+    "Author": "Tabatha Dunning",
+    "AuthorId": 321,
+    "DateReleased": "10/22/1756",
+    "NumberOfPages": 294,
+    "ImageUrl": "http://dummyimage.com/139x199.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 66.94,
+    "Title": "Some Came Running",
+    "Author": "Olympie Towersey",
+    "AuthorId": 322,
+    "DateReleased": "2/7/1920",
+    "NumberOfPages": 316,
+    "ImageUrl": "http://dummyimage.com/143x237.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Documentary",
+    "Price": 42.49,
+    "Title": "Nantucket Film Festival's Comedy Roundtable",
+    "Author": "Margo Dunphie",
+    "AuthorId": 323,
+    "DateReleased": "4/27/1898",
+    "NumberOfPages": 145,
+    "ImageUrl": "http://dummyimage.com/194x248.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Crime|Mystery|Thriller",
+    "Price": 131.74,
+    "Title": "The Trap",
+    "Author": "Jermain Custard",
+    "AuthorId": 324,
+    "DateReleased": "2/14/1629",
+    "NumberOfPages": 325,
+    "ImageUrl": "http://dummyimage.com/156x151.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Action|Horror|Sci-Fi|Thriller|IMAX",
+    "Price": 68.12,
+    "Title": "Resident Evil: Afterlife",
+    "Author": "Wendell Joselovitch",
+    "AuthorId": 325,
+    "DateReleased": "7/16/2002",
+    "NumberOfPages": 70,
+    "ImageUrl": "http://dummyimage.com/153x189.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Drama",
+    "Price": 21.21,
+    "Title": "Girl, The",
+    "Author": "Barty Maffioni",
+    "AuthorId": 326,
+    "DateReleased": "9/1/1901",
+    "NumberOfPages": 62,
+    "ImageUrl": "http://dummyimage.com/155x143.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama|War",
+    "Price": 56.99,
+    "Title": "In Harm's Way",
+    "Author": "Gaylor Hinrichsen",
+    "AuthorId": 327,
+    "DateReleased": "4/9/1941",
+    "NumberOfPages": 147,
+    "ImageUrl": "http://dummyimage.com/212x241.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 42.44,
+    "Title": "Helvetica",
+    "Author": "Davie Surcombe",
+    "AuthorId": 328,
+    "DateReleased": "4/21/1645",
+    "NumberOfPages": 332,
+    "ImageUrl": "http://dummyimage.com/186x160.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Crime|Drama|Thriller",
+    "Price": 120.29,
+    "Title": "Five Minutes of Heaven",
+    "Author": "Heriberto Beart",
+    "AuthorId": 329,
+    "DateReleased": "12/7/1980",
+    "NumberOfPages": 91,
+    "ImageUrl": "http://dummyimage.com/161x110.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 74.2,
+    "Title": "Pete 'n' Tillie",
+    "Author": "Salvador McDowall",
+    "AuthorId": 330,
+    "DateReleased": "12/2/1851",
+    "NumberOfPages": 80,
+    "ImageUrl": "http://dummyimage.com/159x208.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Animation",
+    "Price": 108.08,
+    "Title": "Blue Umbrella, The",
+    "Author": "Remus Pamplin",
+    "AuthorId": 331,
+    "DateReleased": "9/20/1627",
+    "NumberOfPages": 202,
+    "ImageUrl": "http://dummyimage.com/195x221.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Action|Adventure|Sci-Fi",
+    "Price": 107.68,
+    "Title": "Star Wars: Episode I - The Phantom Menace",
+    "Author": "Kevina Bothbie",
+    "AuthorId": 332,
+    "DateReleased": "5/29/1869",
+    "NumberOfPages": 159,
+    "ImageUrl": "http://dummyimage.com/234x198.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Action|Mystery|Sci-Fi",
+    "Price": 39.22,
+    "Title": "Star Trek VI: The Undiscovered Country",
+    "Author": "Neala Kuscha",
+    "AuthorId": 333,
+    "DateReleased": "6/21/1704",
+    "NumberOfPages": 289,
+    "ImageUrl": "http://dummyimage.com/128x140.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Action|Drama|Thriller",
+    "Price": 73.7,
+    "Title": "Born American",
+    "Author": "Mill Burrett",
+    "AuthorId": 334,
+    "DateReleased": "4/29/1871",
+    "NumberOfPages": 159,
+    "ImageUrl": "http://dummyimage.com/176x188.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy|Romance",
+    "Price": 90.06,
+    "Title": "Devil and Miss Jones, The",
+    "Author": "Vernice Izhaky",
+    "AuthorId": 335,
+    "DateReleased": "12/1/1817",
+    "NumberOfPages": 112,
+    "ImageUrl": "http://dummyimage.com/224x168.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama|Horror|Thriller",
+    "Price": 91.1,
+    "Title": "The Woman in Black 2: Angel of Death",
+    "Author": "Collete Pashba",
+    "AuthorId": 336,
+    "DateReleased": "2/12/1940",
+    "NumberOfPages": 58,
+    "ImageUrl": "http://dummyimage.com/111x239.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Crime|Drama|Film-Noir",
+    "Price": 110.43,
+    "Title": "Phenix City Story, The",
+    "Author": "Cathi Ranson",
+    "AuthorId": 337,
+    "DateReleased": "5/9/1936",
+    "NumberOfPages": 313,
+    "ImageUrl": "http://dummyimage.com/141x232.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Action|Crime|Thriller",
+    "Price": 86.7,
+    "Title": "French Connection, The",
+    "Author": "Suellen Raecroft",
+    "AuthorId": 338,
+    "DateReleased": "9/22/1636",
+    "NumberOfPages": 156,
+    "ImageUrl": "http://dummyimage.com/101x136.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Action|Thriller",
+    "Price": 127.95,
+    "Title": "Assault, The (L'assaut)",
+    "Author": "Ronnie Horning",
+    "AuthorId": 339,
+    "DateReleased": "5/20/1927",
+    "NumberOfPages": 62,
+    "ImageUrl": "http://dummyimage.com/217x187.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Action|Drama|War",
+    "Price": 128.14,
+    "Title": "The Eagle and the Hawk",
+    "Author": "Kata Reah",
+    "AuthorId": 340,
+    "DateReleased": "7/13/1608",
+    "NumberOfPages": 182,
+    "ImageUrl": "http://dummyimage.com/184x104.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy|Horror",
+    "Price": 97.49,
+    "Title": "Night of the Day of the Dawn of the Son of the Bride of the Return of the Terror",
+    "Author": "Jude Blackford",
+    "AuthorId": 341,
+    "DateReleased": "10/16/1809",
+    "NumberOfPages": 151,
+    "ImageUrl": "http://dummyimage.com/149x178.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama|Horror|Thriller",
+    "Price": 116.45,
+    "Title": "Danika",
+    "Author": "Augie Wharrier",
+    "AuthorId": 342,
+    "DateReleased": "3/20/1977",
+    "NumberOfPages": 136,
+    "ImageUrl": "http://dummyimage.com/173x216.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Crime|Drama",
+    "Price": 144.25,
+    "Title": "Real Fiction (Shilje sanghwang)",
+    "Author": "Lacie Glaysher",
+    "AuthorId": 343,
+    "DateReleased": "11/26/1712",
+    "NumberOfPages": 196,
+    "ImageUrl": "http://dummyimage.com/138x221.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Action|Crime",
+    "Price": 107.94,
+    "Title": "New Wave, A",
+    "Author": "Fiorenze Freke",
+    "AuthorId": 344,
+    "DateReleased": "5/10/1619",
+    "NumberOfPages": 299,
+    "ImageUrl": "http://dummyimage.com/137x148.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Mystery",
+    "Price": 33.35,
+    "Title": "Murder on a Honeymoon",
+    "Author": "Rasia Raulstone",
+    "AuthorId": 345,
+    "DateReleased": "8/2/1946",
+    "NumberOfPages": 50,
+    "ImageUrl": "http://dummyimage.com/115x238.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 106.49,
+    "Title": "Hunchback of Notre Dame, The (Notre Dame de Paris)",
+    "Author": "Max Krysztofowicz",
+    "AuthorId": 346,
+    "DateReleased": "7/7/1699",
+    "NumberOfPages": 159,
+    "ImageUrl": "http://dummyimage.com/174x178.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 35.8,
+    "Title": "Amor?",
+    "Author": "Katlin Laurent",
+    "AuthorId": 347,
+    "DateReleased": "8/3/1699",
+    "NumberOfPages": 153,
+    "ImageUrl": "http://dummyimage.com/175x197.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 55.87,
+    "Title": "Leaves from Satan's Book (Blade af Satans bog)",
+    "Author": "Stephannie Malcher",
+    "AuthorId": 348,
+    "DateReleased": "3/29/1683",
+    "NumberOfPages": 102,
+    "ImageUrl": "http://dummyimage.com/201x213.png/dddddd/000000"
+  },
+  {
+    "Category": "Drama|Horror|Thriller",
+    "Price": 110.89,
+    "Title": "Hamiltons, The",
+    "Author": "Bogey Bouts",
+    "AuthorId": 349,
+    "DateReleased": "10/3/1724",
+    "NumberOfPages": 189,
+    "ImageUrl": "http://dummyimage.com/245x187.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Adventure|Drama|Fantasy",
+    "Price": 119.48,
+    "Title": "The Beautiful Story",
+    "Author": "Annadiane Pockett",
+    "AuthorId": 350,
+    "DateReleased": "12/1/1912",
+    "NumberOfPages": 186,
+    "ImageUrl": "http://dummyimage.com/146x178.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Documentary|Drama",
+    "Price": 130.47,
+    "Title": "Word Wars",
+    "Author": "Ekaterina Bannard",
+    "AuthorId": 351,
+    "DateReleased": "11/3/1866",
+    "NumberOfPages": 101,
+    "ImageUrl": "http://dummyimage.com/250x162.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Adventure",
+    "Price": 85.12,
+    "Title": "She Gods of Shark Reef",
+    "Author": "Audie Frankom",
+    "AuthorId": 352,
+    "DateReleased": "1/19/1800",
+    "NumberOfPages": 85,
+    "ImageUrl": "http://dummyimage.com/245x175.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 75.06,
+    "Title": "First Love, Last Rites",
+    "Author": "Blithe Hadcock",
+    "AuthorId": 353,
+    "DateReleased": "7/23/1745",
+    "NumberOfPages": 277,
+    "ImageUrl": "http://dummyimage.com/249x240.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Documentary|War",
+    "Price": 18.0,
+    "Title": "War Comes to America (Why We Fight, 7)",
+    "Author": "Marcy Pendrid",
+    "AuthorId": 354,
+    "DateReleased": "7/31/1830",
+    "NumberOfPages": 79,
+    "ImageUrl": "http://dummyimage.com/246x220.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Western",
+    "Price": 128.56,
+    "Title": "Return of a Man Called Horse, The",
+    "Author": "Kahaleel Lilliman",
+    "AuthorId": 355,
+    "DateReleased": "10/29/1916",
+    "NumberOfPages": 163,
+    "ImageUrl": "http://dummyimage.com/189x123.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 80.41,
+    "Title": "Jupiter's Wife",
+    "Author": "Irita Double",
+    "AuthorId": 356,
+    "DateReleased": "2/2/1955",
+    "NumberOfPages": 261,
+    "ImageUrl": "http://dummyimage.com/118x221.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 129.36,
+    "Title": "Cromwell",
+    "Author": "Prisca Enevoldsen",
+    "AuthorId": 357,
+    "DateReleased": "2/24/1908",
+    "NumberOfPages": 104,
+    "ImageUrl": "http://dummyimage.com/249x152.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Crime|Drama|Thriller",
+    "Price": 76.0,
+    "Title": "Public Enemies",
+    "Author": "Rosanna Bridgewood",
+    "AuthorId": 358,
+    "DateReleased": "8/3/1968",
+    "NumberOfPages": 167,
+    "ImageUrl": "http://dummyimage.com/131x169.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 111.66,
+    "Title": "Skin, Skin (Käpy selän alla)",
+    "Author": "Cristin Veltmann",
+    "AuthorId": 359,
+    "DateReleased": "8/14/1912",
+    "NumberOfPages": 216,
+    "ImageUrl": "http://dummyimage.com/129x164.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 67.6,
+    "Title": "Yrrol: An Enormously Well Thought Out Movie (Yrrol - en kolossalt genomtänkt film)",
+    "Author": "Ellery Uman",
+    "AuthorId": 360,
+    "DateReleased": "8/23/1964",
+    "NumberOfPages": 51,
+    "ImageUrl": "http://dummyimage.com/198x178.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Crime|Drama|Thriller",
+    "Price": 142.12,
+    "Title": "Man I Love, The",
+    "Author": "Zacharias Vigar",
+    "AuthorId": 361,
+    "DateReleased": "1/18/1786",
+    "NumberOfPages": 207,
+    "ImageUrl": "http://dummyimage.com/136x183.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 94.49,
+    "Title": "Exhibition",
+    "Author": "Arron Townrow",
+    "AuthorId": 362,
+    "DateReleased": "2/6/1974",
+    "NumberOfPages": 319,
+    "ImageUrl": "http://dummyimage.com/228x154.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Crime|Drama|Film-Noir",
+    "Price": 87.05,
+    "Title": "Las Vegas Story, The",
+    "Author": "Dun Crocker",
+    "AuthorId": 363,
+    "DateReleased": "12/11/1649",
+    "NumberOfPages": 308,
+    "ImageUrl": "http://dummyimage.com/196x222.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Children|Drama",
+    "Price": 100.84,
+    "Title": "Littlest Rebel, The",
+    "Author": "Fionna Jeacop",
+    "AuthorId": 364,
+    "DateReleased": "8/19/1695",
+    "NumberOfPages": 217,
+    "ImageUrl": "http://dummyimage.com/115x185.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Action|Horror|Sci-Fi",
+    "Price": 84.26,
+    "Title": "Scanners III: The Takeover (Scanner Force)",
+    "Author": "Annmarie Pitsall",
+    "AuthorId": 365,
+    "DateReleased": "2/14/1622",
+    "NumberOfPages": 171,
+    "ImageUrl": "http://dummyimage.com/247x248.png/dddddd/000000"
+  },
+  {
+    "Category": "Animation",
+    "Price": 42.03,
+    "Title": "Fresh Guacamole",
+    "Author": "Michel Vanezis",
+    "AuthorId": 366,
+    "DateReleased": "5/3/1991",
+    "NumberOfPages": 300,
+    "ImageUrl": "http://dummyimage.com/226x238.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Action|Drama|Western",
+    "Price": 49.98,
+    "Title": "A Pistol For Ringo",
+    "Author": "Aharon Kitchiner",
+    "AuthorId": 367,
+    "DateReleased": "11/7/1846",
+    "NumberOfPages": 299,
+    "ImageUrl": "http://dummyimage.com/195x163.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Action|Drama|War",
+    "Price": 102.83,
+    "Title": "Braveheart",
+    "Author": "Padraig Mawne",
+    "AuthorId": 368,
+    "DateReleased": "4/18/1716",
+    "NumberOfPages": 202,
+    "ImageUrl": "http://dummyimage.com/137x243.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Adventure|Western",
+    "Price": 115.58,
+    "Title": "Lone Ranger, The",
+    "Author": "Arron Kervin",
+    "AuthorId": 369,
+    "DateReleased": "6/28/1738",
+    "NumberOfPages": 168,
+    "ImageUrl": "http://dummyimage.com/242x216.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 24.38,
+    "Title": "East, West, East: The Final Sprint",
+    "Author": "Casey Carlick",
+    "AuthorId": 370,
+    "DateReleased": "9/2/1929",
+    "NumberOfPages": 76,
+    "ImageUrl": "http://dummyimage.com/250x174.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 62.0,
+    "Title": "Public Housing",
+    "Author": "Morie Matthai",
+    "AuthorId": 371,
+    "DateReleased": "8/9/1709",
+    "NumberOfPages": 122,
+    "ImageUrl": "http://dummyimage.com/118x131.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Action|Adventure|Drama",
+    "Price": 30.5,
+    "Title": "Far Cry",
+    "Author": "Dennis Matashkin",
+    "AuthorId": 372,
+    "DateReleased": "8/13/1839",
+    "NumberOfPages": 295,
+    "ImageUrl": "http://dummyimage.com/218x100.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Crime",
+    "Price": 108.22,
+    "Title": "Chan Is Missing",
+    "Author": "Jose Barwick",
+    "AuthorId": 373,
+    "DateReleased": "3/30/2012",
+    "NumberOfPages": 216,
+    "ImageUrl": "http://dummyimage.com/198x135.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Crime",
+    "Price": 93.37,
+    "Title": "Honey Pot, The",
+    "Author": "Jan Braker",
+    "AuthorId": 374,
+    "DateReleased": "11/15/1868",
+    "NumberOfPages": 349,
+    "ImageUrl": "http://dummyimage.com/122x138.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 20.58,
+    "Title": "Meet the Parents",
+    "Author": "Natasha Roubert",
+    "AuthorId": 375,
+    "DateReleased": "9/1/1617",
+    "NumberOfPages": 102,
+    "ImageUrl": "http://dummyimage.com/188x169.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 62.66,
+    "Title": "After the Wedding (Efter brylluppet)",
+    "Author": "Archer Matteini",
+    "AuthorId": 376,
+    "DateReleased": "1/19/1717",
+    "NumberOfPages": 161,
+    "ImageUrl": "http://dummyimage.com/146x240.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Action|Thriller|Western",
+    "Price": 88.41,
+    "Title": "Quick and the Dead, The",
+    "Author": "Skipton Cottle",
+    "AuthorId": 377,
+    "DateReleased": "2/22/1719",
+    "NumberOfPages": 85,
+    "ImageUrl": "http://dummyimage.com/208x191.png/dddddd/000000"
+  },
+  {
+    "Category": "Crime|Mystery",
+    "Price": 113.12,
+    "Title": "Death on the Nile",
+    "Author": "Clerissa Pachta",
+    "AuthorId": 378,
+    "DateReleased": "11/3/1940",
+    "NumberOfPages": 344,
+    "ImageUrl": "http://dummyimage.com/104x243.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Thriller",
+    "Price": 27.07,
+    "Title": "Panic Room",
+    "Author": "Felipe Danelut",
+    "AuthorId": 379,
+    "DateReleased": "5/27/1624",
+    "NumberOfPages": 102,
+    "ImageUrl": "http://dummyimage.com/210x180.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Children|Comedy|Romance",
+    "Price": 91.2,
+    "Title": "A Cinderella Story: Once Upon a Song",
+    "Author": "Caty Jakeman",
+    "AuthorId": 380,
+    "DateReleased": "3/1/1940",
+    "NumberOfPages": 80,
+    "ImageUrl": "http://dummyimage.com/197x113.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Thriller",
+    "Price": 73.85,
+    "Title": "Swimfan",
+    "Author": "Ashlan Olenchenko",
+    "AuthorId": 381,
+    "DateReleased": "9/2/1947",
+    "NumberOfPages": 308,
+    "ImageUrl": "http://dummyimage.com/123x203.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Horror|Thriller|IMAX",
+    "Price": 50.3,
+    "Title": "Final Destination 5",
+    "Author": "Tonia Brigden",
+    "AuthorId": 382,
+    "DateReleased": "11/23/1885",
+    "NumberOfPages": 301,
+    "ImageUrl": "http://dummyimage.com/160x160.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 51.45,
+    "Title": "Italian Straw Hat, The (Un chapeau de paille d'Italie)",
+    "Author": "Cyndia Lauder",
+    "AuthorId": 383,
+    "DateReleased": "7/2/1863",
+    "NumberOfPages": 207,
+    "ImageUrl": "http://dummyimage.com/147x216.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 104.16,
+    "Title": "Loved One, The",
+    "Author": "Lind Windrus",
+    "AuthorId": 384,
+    "DateReleased": "5/23/1640",
+    "NumberOfPages": 135,
+    "ImageUrl": "http://dummyimage.com/248x233.png/dddddd/000000"
+  },
+  {
+    "Category": "Action|Crime|Drama|Fantasy|Romance",
+    "Price": 141.86,
+    "Title": "Uncertainty",
+    "Author": "Randi Attersoll",
+    "AuthorId": 385,
+    "DateReleased": "7/12/1714",
+    "NumberOfPages": 252,
+    "ImageUrl": "http://dummyimage.com/124x126.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Crime|Drama",
+    "Price": 88.68,
+    "Title": "Street Smart",
+    "Author": "Jennette Grishagin",
+    "AuthorId": 386,
+    "DateReleased": "10/25/1743",
+    "NumberOfPages": 336,
+    "ImageUrl": "http://dummyimage.com/154x125.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 26.74,
+    "Title": "Order of Myths, The",
+    "Author": "Lorin Kerfut",
+    "AuthorId": 387,
+    "DateReleased": "8/22/1604",
+    "NumberOfPages": 159,
+    "ImageUrl": "http://dummyimage.com/189x237.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 80.35,
+    "Title": "Smoke Signals",
+    "Author": "Basil Ronan",
+    "AuthorId": 388,
+    "DateReleased": "9/2/1619",
+    "NumberOfPages": 249,
+    "ImageUrl": "http://dummyimage.com/233x244.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama|Fantasy|Mystery",
+    "Price": 26.63,
+    "Title": "Photographing Fairies",
+    "Author": "Falito Henriquet",
+    "AuthorId": 389,
+    "DateReleased": "1/16/1749",
+    "NumberOfPages": 344,
+    "ImageUrl": "http://dummyimage.com/172x160.png/dddddd/000000"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 24.23,
+    "Title": "Hitler's Children",
+    "Author": "Leicester McColl",
+    "AuthorId": 390,
+    "DateReleased": "2/11/1673",
+    "NumberOfPages": 165,
+    "ImageUrl": "http://dummyimage.com/120x195.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 68.85,
+    "Title": "Conman (Du Xia 1999)",
+    "Author": "Corney Vinnicombe",
+    "AuthorId": 391,
+    "DateReleased": "12/30/1677",
+    "NumberOfPages": 79,
+    "ImageUrl": "http://dummyimage.com/198x238.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Action|Adventure|War",
+    "Price": 101.25,
+    "Title": "Coronado",
+    "Author": "Corella Randleson",
+    "AuthorId": 392,
+    "DateReleased": "6/18/1606",
+    "NumberOfPages": 122,
+    "ImageUrl": "http://dummyimage.com/215x150.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 109.96,
+    "Title": "Elegy",
+    "Author": "Flossy Bower",
+    "AuthorId": 393,
+    "DateReleased": "7/19/1831",
+    "NumberOfPages": 318,
+    "ImageUrl": "http://dummyimage.com/134x173.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 88.21,
+    "Title": "Genevieve",
+    "Author": "Chrissie Greyes",
+    "AuthorId": 394,
+    "DateReleased": "8/16/1615",
+    "NumberOfPages": 256,
+    "ImageUrl": "http://dummyimage.com/235x219.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 96.21,
+    "Title": "Hothead (Coup de tête)",
+    "Author": "Mamie Arrighini",
+    "AuthorId": 395,
+    "DateReleased": "10/28/1798",
+    "NumberOfPages": 203,
+    "ImageUrl": "http://dummyimage.com/145x244.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Horror|Mystery",
+    "Price": 103.64,
+    "Title": "Toolbox Murders",
+    "Author": "Osbourn Bezant",
+    "AuthorId": 396,
+    "DateReleased": "2/13/1763",
+    "NumberOfPages": 331,
+    "ImageUrl": "http://dummyimage.com/140x124.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 79.48,
+    "Title": "Coney Island",
+    "Author": "Fonsie Judkins",
+    "AuthorId": 397,
+    "DateReleased": "11/24/1728",
+    "NumberOfPages": 143,
+    "ImageUrl": "http://dummyimage.com/111x175.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Action|Horror|Sci-Fi",
+    "Price": 86.78,
+    "Title": "AVPR: Aliens vs. Predator - Requiem",
+    "Author": "Mose Jozsa",
+    "AuthorId": 398,
+    "DateReleased": "3/23/1639",
+    "NumberOfPages": 235,
+    "ImageUrl": "http://dummyimage.com/136x215.png/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Romance",
+    "Price": 134.46,
+    "Title": "Blast from the Past",
+    "Author": "Nolly Manshaw",
+    "AuthorId": 399,
+    "DateReleased": "1/28/1744",
+    "NumberOfPages": 228,
+    "ImageUrl": "http://dummyimage.com/115x237.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Adventure|Comedy|Sci-Fi",
+    "Price": 23.29,
+    "Title": "Spaced Invaders",
+    "Author": "Meggi Stockin",
+    "AuthorId": 400,
+    "DateReleased": "2/22/1933",
+    "NumberOfPages": 63,
+    "ImageUrl": "http://dummyimage.com/171x216.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 121.42,
+    "Title": "Home of the Brave",
+    "Author": "Torrie Dursley",
+    "AuthorId": 401,
+    "DateReleased": "2/14/2017",
+    "NumberOfPages": 104,
+    "ImageUrl": "http://dummyimage.com/144x147.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Romance",
+    "Price": 94.51,
+    "Title": "Book of Love",
+    "Author": "Carmel Paull",
+    "AuthorId": 402,
+    "DateReleased": "10/4/1850",
+    "NumberOfPages": 340,
+    "ImageUrl": "http://dummyimage.com/235x226.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Action|Comedy|Drama|Thriller",
+    "Price": 119.73,
+    "Title": "Kabul Express",
+    "Author": "Fiona Strick",
+    "AuthorId": 403,
+    "DateReleased": "11/9/1647",
+    "NumberOfPages": 84,
+    "ImageUrl": "http://dummyimage.com/110x225.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Action|Drama",
+    "Price": 130.16,
+    "Title": "Slams, The",
+    "Author": "Zorina Felder",
+    "AuthorId": 404,
+    "DateReleased": "1/3/1659",
+    "NumberOfPages": 94,
+    "ImageUrl": "http://dummyimage.com/246x114.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 50.06,
+    "Title": "Legally Blonde 2: Red, White & Blonde",
+    "Author": "Noami Cockaday",
+    "AuthorId": 405,
+    "DateReleased": "6/18/1601",
+    "NumberOfPages": 124,
+    "ImageUrl": "http://dummyimage.com/231x227.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Documentary",
+    "Price": 108.19,
+    "Title": "The Improv: 50 Years Behind the Brick Wall",
+    "Author": "Piggy Doget",
+    "AuthorId": 406,
+    "DateReleased": "10/10/1968",
+    "NumberOfPages": 320,
+    "ImageUrl": "http://dummyimage.com/215x131.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Action|Adventure",
+    "Price": 123.15,
+    "Title": "Expendables 3, The",
+    "Author": "Xena Dessent",
+    "AuthorId": 407,
+    "DateReleased": "7/22/1661",
+    "NumberOfPages": 107,
+    "ImageUrl": "http://dummyimage.com/229x206.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy|Crime|Thriller",
+    "Price": 18.44,
+    "Title": "Pronto",
+    "Author": "Vale Wrennall",
+    "AuthorId": 408,
+    "DateReleased": "2/26/1748",
+    "NumberOfPages": 327,
+    "ImageUrl": "http://dummyimage.com/227x194.png/dddddd/000000"
+  },
+  {
+    "Category": "Action|Romance|Sci-Fi",
+    "Price": 15.76,
+    "Title": "Insurgent",
+    "Author": "Tarrah Vaan",
+    "AuthorId": 409,
+    "DateReleased": "7/30/1867",
+    "NumberOfPages": 326,
+    "ImageUrl": "http://dummyimage.com/164x181.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Action|Drama",
+    "Price": 104.75,
+    "Title": "Submarine",
+    "Author": "Westbrooke Auten",
+    "AuthorId": 410,
+    "DateReleased": "11/24/1847",
+    "NumberOfPages": 231,
+    "ImageUrl": "http://dummyimage.com/144x225.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Action|Drama",
+    "Price": 77.81,
+    "Title": "Youngblood",
+    "Author": "Skyler Gabel",
+    "AuthorId": 411,
+    "DateReleased": "2/27/2018",
+    "NumberOfPages": 96,
+    "ImageUrl": "http://dummyimage.com/204x225.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 132.29,
+    "Title": "Welcome Home, Roscoe Jenkins",
+    "Author": "Mackenzie Walklott",
+    "AuthorId": 412,
+    "DateReleased": "4/16/1911",
+    "NumberOfPages": 214,
+    "ImageUrl": "http://dummyimage.com/120x145.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 105.08,
+    "Title": "Children of the Decree (Das Experiment 770 - Gebären auf Befehl)",
+    "Author": "Nels Hartfleet",
+    "AuthorId": 413,
+    "DateReleased": "11/27/1729",
+    "NumberOfPages": 284,
+    "ImageUrl": "http://dummyimage.com/223x190.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Drama|Musical|Romance",
+    "Price": 24.49,
+    "Title": "Mohabbatein",
+    "Author": "Vonnie Tolcher",
+    "AuthorId": 414,
+    "DateReleased": "7/31/1935",
+    "NumberOfPages": 99,
+    "ImageUrl": "http://dummyimage.com/200x161.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Action|Crime|Drama",
+    "Price": 18.45,
+    "Title": "Boca",
+    "Author": "Benoite Rykert",
+    "AuthorId": 415,
+    "DateReleased": "7/29/1793",
+    "NumberOfPages": 256,
+    "ImageUrl": "http://dummyimage.com/103x140.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Crime|Thriller",
+    "Price": 89.28,
+    "Title": "Escort, The (Scorta, La)",
+    "Author": "Coreen Thowes",
+    "AuthorId": 416,
+    "DateReleased": "9/13/1674",
+    "NumberOfPages": 316,
+    "ImageUrl": "http://dummyimage.com/198x243.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 104.19,
+    "Title": "Kandahar (Safar e Ghandehar)",
+    "Author": "Mariquilla Mearing",
+    "AuthorId": 417,
+    "DateReleased": "4/15/1710",
+    "NumberOfPages": 183,
+    "ImageUrl": "http://dummyimage.com/110x108.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Children|Comedy",
+    "Price": 135.97,
+    "Title": "Ollie Hopnoodle's Haven of Bliss",
+    "Author": "Nerti Britcher",
+    "AuthorId": 418,
+    "DateReleased": "4/24/1869",
+    "NumberOfPages": 337,
+    "ImageUrl": "http://dummyimage.com/179x249.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama|Romance",
+    "Price": 51.41,
+    "Title": "Love Affair",
+    "Author": "Phillipe Toulamain",
+    "AuthorId": 419,
+    "DateReleased": "10/12/1947",
+    "NumberOfPages": 248,
+    "ImageUrl": "http://dummyimage.com/128x164.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 34.3,
+    "Title": "Witless Protection",
+    "Author": "Orelee Gleaves",
+    "AuthorId": 420,
+    "DateReleased": "11/22/1925",
+    "NumberOfPages": 72,
+    "ImageUrl": "http://dummyimage.com/192x125.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Action|Comedy",
+    "Price": 108.98,
+    "Title": "Man on High Heels",
+    "Author": "Ravid Lincoln",
+    "AuthorId": 421,
+    "DateReleased": "9/14/1944",
+    "NumberOfPages": 144,
+    "ImageUrl": "http://dummyimage.com/186x248.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Adventure",
+    "Price": 73.18,
+    "Title": "Tai-Pan",
+    "Author": "Brent Burfield",
+    "AuthorId": 422,
+    "DateReleased": "10/20/1677",
+    "NumberOfPages": 108,
+    "ImageUrl": "http://dummyimage.com/138x174.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama|Western",
+    "Price": 51.2,
+    "Title": "The Man Who Shook the Hand of Vicente Fernandez",
+    "Author": "Dory Cheeld",
+    "AuthorId": 423,
+    "DateReleased": "10/14/1732",
+    "NumberOfPages": 239,
+    "ImageUrl": "http://dummyimage.com/116x105.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|Thriller",
+    "Price": 37.2,
+    "Title": "House of the Seven Gables, The",
+    "Author": "Romola Goranov",
+    "AuthorId": 424,
+    "DateReleased": "8/22/1825",
+    "NumberOfPages": 178,
+    "ImageUrl": "http://dummyimage.com/119x225.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Crime|Drama|Thriller",
+    "Price": 81.76,
+    "Title": "Captive, The",
+    "Author": "Chlo Glandfield",
+    "AuthorId": 425,
+    "DateReleased": "11/11/1946",
+    "NumberOfPages": 278,
+    "ImageUrl": "http://dummyimage.com/121x201.png/dddddd/000000"
+  },
+  {
+    "Category": "Crime|Drama",
+    "Price": 18.99,
+    "Title": "Deadline - U.S.A.",
+    "Author": "Ynes Duerden",
+    "AuthorId": 426,
+    "DateReleased": "3/20/1777",
+    "NumberOfPages": 297,
+    "ImageUrl": "http://dummyimage.com/230x158.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 97.2,
+    "Title": "Two Friends",
+    "Author": "Jackquelin Pattesall",
+    "AuthorId": 427,
+    "DateReleased": "5/21/1814",
+    "NumberOfPages": 167,
+    "ImageUrl": "http://dummyimage.com/178x163.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Horror|Mystery|Thriller",
+    "Price": 140.49,
+    "Title": "301, 302 (301/302)",
+    "Author": "Spike Bonnet",
+    "AuthorId": 428,
+    "DateReleased": "5/26/1656",
+    "NumberOfPages": 119,
+    "ImageUrl": "http://dummyimage.com/220x248.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Crime|Drama",
+    "Price": 29.23,
+    "Title": "Three Strangers",
+    "Author": "Gilli Munden",
+    "AuthorId": 429,
+    "DateReleased": "7/23/1895",
+    "NumberOfPages": 187,
+    "ImageUrl": "http://dummyimage.com/250x216.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 137.07,
+    "Title": "Rat Race",
+    "Author": "Celie Habeshaw",
+    "AuthorId": 430,
+    "DateReleased": "1/14/1659",
+    "NumberOfPages": 317,
+    "ImageUrl": "http://dummyimage.com/198x103.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 95.45,
+    "Title": "Katsastus",
+    "Author": "Lenka Gomez",
+    "AuthorId": 431,
+    "DateReleased": "9/2/1868",
+    "NumberOfPages": 76,
+    "ImageUrl": "http://dummyimage.com/232x204.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 60.41,
+    "Title": "1",
+    "Author": "Archy Hickin",
+    "AuthorId": 432,
+    "DateReleased": "7/5/1789",
+    "NumberOfPages": 316,
+    "ImageUrl": "http://dummyimage.com/108x209.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama|Romance",
+    "Price": 135.72,
+    "Title": "Toi et Moi",
+    "Author": "Lexis Danielut",
+    "AuthorId": 433,
+    "DateReleased": "12/19/1805",
+    "NumberOfPages": 320,
+    "ImageUrl": "http://dummyimage.com/113x220.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama|Romance",
+    "Price": 30.91,
+    "Title": "Ladies in Lavender",
+    "Author": "Alfons Arpin",
+    "AuthorId": 434,
+    "DateReleased": "3/9/1699",
+    "NumberOfPages": 313,
+    "ImageUrl": "http://dummyimage.com/211x167.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Horror",
+    "Price": 26.96,
+    "Title": "Pumpkinhead",
+    "Author": "Savina Ferre",
+    "AuthorId": 435,
+    "DateReleased": "6/23/1673",
+    "NumberOfPages": 309,
+    "ImageUrl": "http://dummyimage.com/227x250.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 57.34,
+    "Title": "Familia",
+    "Author": "Keslie Firman",
+    "AuthorId": 436,
+    "DateReleased": "9/5/1877",
+    "NumberOfPages": 255,
+    "ImageUrl": "http://dummyimage.com/130x162.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Drama",
+    "Price": 90.38,
+    "Title": "Gospel of John, The",
+    "Author": "Larina Jorez",
+    "AuthorId": 437,
+    "DateReleased": "1/2/1837",
+    "NumberOfPages": 212,
+    "ImageUrl": "http://dummyimage.com/196x137.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 26.87,
+    "Title": "Don Verdean",
+    "Author": "Holmes Beames",
+    "AuthorId": 438,
+    "DateReleased": "8/9/1750",
+    "NumberOfPages": 199,
+    "ImageUrl": "http://dummyimage.com/119x108.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Horror",
+    "Price": 98.6,
+    "Title": "Dead Meat",
+    "Author": "Inna Drew",
+    "AuthorId": 439,
+    "DateReleased": "2/23/1690",
+    "NumberOfPages": 338,
+    "ImageUrl": "http://dummyimage.com/219x113.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Drama|War",
+    "Price": 141.96,
+    "Title": "Admiral",
+    "Author": "Natassia Doyle",
+    "AuthorId": 440,
+    "DateReleased": "7/10/1804",
+    "NumberOfPages": 148,
+    "ImageUrl": "http://dummyimage.com/225x206.png/dddddd/000000"
+  },
+  {
+    "Category": "Drama",
+    "Price": 35.0,
+    "Title": "Silent Souls (Ovsyanki)",
+    "Author": "Jaquenetta Purrington",
+    "AuthorId": 441,
+    "DateReleased": "9/26/1851",
+    "NumberOfPages": 162,
+    "ImageUrl": "http://dummyimage.com/197x221.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama|Thriller",
+    "Price": 141.25,
+    "Title": "Return to Sender",
+    "Author": "Desirae Wear",
+    "AuthorId": 442,
+    "DateReleased": "12/7/1903",
+    "NumberOfPages": 72,
+    "ImageUrl": "http://dummyimage.com/200x206.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Action|Drama",
+    "Price": 131.38,
+    "Title": "Sailor of the King",
+    "Author": "Evvy Jimmison",
+    "AuthorId": 443,
+    "DateReleased": "4/20/1977",
+    "NumberOfPages": 163,
+    "ImageUrl": "http://dummyimage.com/142x150.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Adventure|Animation|Children|Comedy|Fantasy|Romance",
+    "Price": 43.97,
+    "Title": "Gnomeo & Juliet",
+    "Author": "Bili Woolgar",
+    "AuthorId": 444,
+    "DateReleased": "12/14/1995",
+    "NumberOfPages": 271,
+    "ImageUrl": "http://dummyimage.com/171x171.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 128.15,
+    "Title": "Freud: The Secret Passion",
+    "Author": "Calv Presidey",
+    "AuthorId": 445,
+    "DateReleased": "11/5/1715",
+    "NumberOfPages": 212,
+    "ImageUrl": "http://dummyimage.com/191x192.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Crime|Drama",
+    "Price": 74.17,
+    "Title": "Flawless",
+    "Author": "Betsy Smoth",
+    "AuthorId": 446,
+    "DateReleased": "8/16/1983",
+    "NumberOfPages": 140,
+    "ImageUrl": "http://dummyimage.com/133x127.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Adventure|Comedy|Sci-Fi",
+    "Price": 63.64,
+    "Title": "Howard the Duck",
+    "Author": "Wallis Malshinger",
+    "AuthorId": 447,
+    "DateReleased": "11/27/1966",
+    "NumberOfPages": 289,
+    "ImageUrl": "http://dummyimage.com/214x195.png/dddddd/000000"
+  },
+  {
+    "Category": "Adventure|Horror|Sci-Fi",
+    "Price": 91.11,
+    "Title": "Mask of Fu Manchu, The",
+    "Author": "Fidelity Haysar",
+    "AuthorId": 448,
+    "DateReleased": "3/29/1697",
+    "NumberOfPages": 250,
+    "ImageUrl": "http://dummyimage.com/125x131.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Horror|Thriller",
+    "Price": 68.09,
+    "Title": "In Dreams",
+    "Author": "Minne Aslen",
+    "AuthorId": 449,
+    "DateReleased": "12/15/1998",
+    "NumberOfPages": 342,
+    "ImageUrl": "http://dummyimage.com/106x136.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Action|Adventure|Fantasy|Sci-Fi",
+    "Price": 135.41,
+    "Title": "Beastmaster 2: Through the Portal of Time",
+    "Author": "Tybi Backwell",
+    "AuthorId": 450,
+    "DateReleased": "5/1/1978",
+    "NumberOfPages": 68,
+    "ImageUrl": "http://dummyimage.com/156x107.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Musical",
+    "Price": 99.47,
+    "Title": "Love Me Tonight",
+    "Author": "Biron Drepp",
+    "AuthorId": 451,
+    "DateReleased": "4/1/1977",
+    "NumberOfPages": 346,
+    "ImageUrl": "http://dummyimage.com/139x249.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 42.99,
+    "Title": "Bringing Up Bobby",
+    "Author": "Marvin Flageul",
+    "AuthorId": 452,
+    "DateReleased": "5/20/1750",
+    "NumberOfPages": 227,
+    "ImageUrl": "http://dummyimage.com/222x138.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Action|Sci-Fi",
+    "Price": 65.21,
+    "Title": "Trancers",
+    "Author": "Clay Forker",
+    "AuthorId": 453,
+    "DateReleased": "3/28/1822",
+    "NumberOfPages": 206,
+    "ImageUrl": "http://dummyimage.com/185x139.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Musical|Romance",
+    "Price": 60.38,
+    "Title": "Tea For Two",
+    "Author": "Addison Eassom",
+    "AuthorId": 454,
+    "DateReleased": "9/28/1997",
+    "NumberOfPages": 265,
+    "ImageUrl": "http://dummyimage.com/215x230.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 87.63,
+    "Title": "Left Luggage",
+    "Author": "Benny Duguid",
+    "AuthorId": 455,
+    "DateReleased": "5/5/1984",
+    "NumberOfPages": 350,
+    "ImageUrl": "http://dummyimage.com/122x211.jpg/dddddd/000000"
+  },
+  {
+    "Category": "Drama|Film-Noir|Mystery",
+    "Price": 77.25,
+    "Title": "Sleep, My Love",
+    "Author": "Max Shurmore",
+    "AuthorId": 456,
+    "DateReleased": "7/1/1640",
+    "NumberOfPages": 339,
+    "ImageUrl": "http://dummyimage.com/233x157.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Action|Crime|Drama|Thriller",
+    "Price": 82.54,
+    "Title": "Real McCoy, The",
+    "Author": "Jewel Bliss",
+    "AuthorId": 457,
+    "DateReleased": "10/3/2009",
+    "NumberOfPages": 83,
+    "ImageUrl": "http://dummyimage.com/135x173.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Romance",
+    "Price": 67.01,
+    "Title": "Cluny Brown",
+    "Author": "Frederich Tregian",
+    "AuthorId": 458,
+    "DateReleased": "6/20/1724",
+    "NumberOfPages": 264,
+    "ImageUrl": "http://dummyimage.com/227x188.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Horror",
+    "Price": 19.98,
+    "Title": "Ghost Ship",
+    "Author": "Tabby Razzell",
+    "AuthorId": 459,
+    "DateReleased": "12/13/1742",
+    "NumberOfPages": 324,
+    "ImageUrl": "http://dummyimage.com/229x223.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 81.48,
+    "Title": "Virtual JFK: Vietnam If Kennedy Had Lived",
+    "Author": "Verile Selborne",
+    "AuthorId": 460,
+    "DateReleased": "11/20/1607",
+    "NumberOfPages": 331,
+    "ImageUrl": "http://dummyimage.com/150x185.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 45.15,
+    "Title": "Affair of Love, An (Liaison pornographique, Une)",
+    "Author": "Iver Jurgen",
+    "AuthorId": 461,
+    "DateReleased": "5/2/1980",
+    "NumberOfPages": 308,
+    "ImageUrl": "http://dummyimage.com/146x214.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 91.48,
+    "Title": "Flying Deuces, The",
+    "Author": "Doll Prandi",
+    "AuthorId": 462,
+    "DateReleased": "8/31/1659",
+    "NumberOfPages": 216,
+    "ImageUrl": "http://dummyimage.com/168x187.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 87.21,
+    "Title": "Out in the Dark",
+    "Author": "Anestassia Nevinson",
+    "AuthorId": 463,
+    "DateReleased": "6/11/1608",
+    "NumberOfPages": 185,
+    "ImageUrl": "http://dummyimage.com/136x239.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Adventure|Comedy|Drama",
+    "Price": 138.23,
+    "Title": "Sisterhood of the Traveling Pants, The",
+    "Author": "Carmon Bigadike",
+    "AuthorId": 464,
+    "DateReleased": "1/18/1650",
+    "NumberOfPages": 240,
+    "ImageUrl": "http://dummyimage.com/111x170.png/dddddd/000000"
+  },
+  {
+    "Category": "Action|Drama",
+    "Price": 27.52,
+    "Title": "Winning",
+    "Author": "Harriet Yeabsley",
+    "AuthorId": 465,
+    "DateReleased": "3/20/1874",
+    "NumberOfPages": 181,
+    "ImageUrl": "http://dummyimage.com/200x178.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 35.58,
+    "Title": "Over Your Cities Grass Will Grow",
+    "Author": "Odette Pirrone",
+    "AuthorId": 466,
+    "DateReleased": "11/25/1933",
+    "NumberOfPages": 207,
+    "ImageUrl": "http://dummyimage.com/241x172.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 48.28,
+    "Title": "Cheerleaders, The",
+    "Author": "Archer Serle",
+    "AuthorId": 467,
+    "DateReleased": "10/29/1760",
+    "NumberOfPages": 317,
+    "ImageUrl": "http://dummyimage.com/244x150.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 75.46,
+    "Title": "Expecting a Miracle",
+    "Author": "Ransom Jeske",
+    "AuthorId": 468,
+    "DateReleased": "10/8/1836",
+    "NumberOfPages": 209,
+    "ImageUrl": "http://dummyimage.com/222x129.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy|Romance",
+    "Price": 35.39,
+    "Title": "Father's Little Dividend",
+    "Author": "Tremayne Pengilley",
+    "AuthorId": 469,
+    "DateReleased": "3/6/1666",
+    "NumberOfPages": 292,
+    "ImageUrl": "http://dummyimage.com/192x201.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Action|Adventure|Drama|Sci-Fi",
+    "Price": 90.96,
+    "Title": "Planet of the Apes",
+    "Author": "Kendrick Terram",
+    "AuthorId": 470,
+    "DateReleased": "8/26/1786",
+    "NumberOfPages": 109,
+    "ImageUrl": "http://dummyimage.com/143x135.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 81.08,
+    "Title": "Moving McAllister",
+    "Author": "Andonis Bredgeland",
+    "AuthorId": 471,
+    "DateReleased": "1/5/1902",
+    "NumberOfPages": 142,
+    "ImageUrl": "http://dummyimage.com/183x169.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Crime|Drama|Horror|Mystery|Thriller",
+    "Price": 100.61,
+    "Title": "Hole, The",
+    "Author": "Agnola Cleveley",
+    "AuthorId": 472,
+    "DateReleased": "8/24/1845",
+    "NumberOfPages": 325,
+    "ImageUrl": "http://dummyimage.com/245x146.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Romance",
+    "Price": 132.99,
+    "Title": "The Missionaries",
+    "Author": "Jori Rodrig",
+    "AuthorId": 473,
+    "DateReleased": "1/15/1702",
+    "NumberOfPages": 110,
+    "ImageUrl": "http://dummyimage.com/145x186.png/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 76.85,
+    "Title": "Real Blonde, The",
+    "Author": "Lanita Shemelt",
+    "AuthorId": 474,
+    "DateReleased": "9/23/1921",
+    "NumberOfPages": 347,
+    "ImageUrl": "http://dummyimage.com/248x203.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Action|Adventure|Sci-Fi|IMAX",
+    "Price": 135.58,
+    "Title": "Avatar",
+    "Author": "Amalle Clack",
+    "AuthorId": 475,
+    "DateReleased": "12/12/1727",
+    "NumberOfPages": 129,
+    "ImageUrl": "http://dummyimage.com/178x243.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Documentary|Drama",
+    "Price": 39.41,
+    "Title": "Word Wars",
+    "Author": "Verna Fancett",
+    "AuthorId": 476,
+    "DateReleased": "1/24/1717",
+    "NumberOfPages": 151,
+    "ImageUrl": "http://dummyimage.com/208x240.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Action|Crime|Drama",
+    "Price": 31.27,
+    "Title": "State Witness, The (Swiadek koronny)",
+    "Author": "Cassey Slamaker",
+    "AuthorId": 477,
+    "DateReleased": "11/3/1717",
+    "NumberOfPages": 228,
+    "ImageUrl": "http://dummyimage.com/112x177.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Crime|Thriller",
+    "Price": 30.71,
+    "Title": "Big Nothing",
+    "Author": "Sigvard Voce",
+    "AuthorId": 478,
+    "DateReleased": "1/10/1728",
+    "NumberOfPages": 74,
+    "ImageUrl": "http://dummyimage.com/132x212.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 79.3,
+    "Title": "Whores' Glory",
+    "Author": "Caprice Graveson",
+    "AuthorId": 479,
+    "DateReleased": "11/16/1916",
+    "NumberOfPages": 159,
+    "ImageUrl": "http://dummyimage.com/214x185.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 20.31,
+    "Title": "Story of a Cheat, The (Roman d'un tricheur, Le)",
+    "Author": "Othilie Shrubsall",
+    "AuthorId": 480,
+    "DateReleased": "6/9/1800",
+    "NumberOfPages": 145,
+    "ImageUrl": "http://dummyimage.com/190x179.png/dddddd/000000"
+  },
+  {
+    "Category": "(no genres listed)",
+    "Price": 67.63,
+    "Title": "1000 Journals",
+    "Author": "Jaime Briant",
+    "AuthorId": 481,
+    "DateReleased": "10/9/1799",
+    "NumberOfPages": 212,
+    "ImageUrl": "http://dummyimage.com/112x104.jpg/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Documentary|Musical",
+    "Price": 103.42,
+    "Title": "Awesome; I Fuckin Shot That!",
+    "Author": "Twyla Morsom",
+    "AuthorId": 482,
+    "DateReleased": "5/10/1763",
+    "NumberOfPages": 213,
+    "ImageUrl": "http://dummyimage.com/239x230.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Crime|Drama|Mystery|Thriller",
+    "Price": 100.9,
+    "Title": "Irreversible (Irréversible)",
+    "Author": "Willow Mulchrone",
+    "AuthorId": 483,
+    "DateReleased": "1/30/1946",
+    "NumberOfPages": 70,
+    "ImageUrl": "http://dummyimage.com/208x201.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Drama",
+    "Price": 24.86,
+    "Title": "When Will I Be Loved",
+    "Author": "Hershel Benny",
+    "AuthorId": 484,
+    "DateReleased": "4/11/1713",
+    "NumberOfPages": 199,
+    "ImageUrl": "http://dummyimage.com/117x244.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Action|Drama|Thriller",
+    "Price": 141.44,
+    "Title": "Final Cut, The",
+    "Author": "Gerardo Abley",
+    "AuthorId": 485,
+    "DateReleased": "5/6/1990",
+    "NumberOfPages": 125,
+    "ImageUrl": "http://dummyimage.com/245x127.bmp/ff4444/ffffff"
+  },
+  {
+    "Category": "Action|Adventure|Romance|Western",
+    "Price": 137.68,
+    "Title": "Montana",
+    "Author": "Pascal Greenall",
+    "AuthorId": 486,
+    "DateReleased": "12/27/1884",
+    "NumberOfPages": 75,
+    "ImageUrl": "http://dummyimage.com/137x198.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 30.54,
+    "Title": "A-Haunting We Will Go",
+    "Author": "Esme Frain",
+    "AuthorId": 487,
+    "DateReleased": "6/16/1638",
+    "NumberOfPages": 115,
+    "ImageUrl": "http://dummyimage.com/113x101.png/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy|Musical",
+    "Price": 51.06,
+    "Title": "Hollywood Party",
+    "Author": "Ninetta Chisolm",
+    "AuthorId": 488,
+    "DateReleased": "6/9/1771",
+    "NumberOfPages": 96,
+    "ImageUrl": "http://dummyimage.com/225x184.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Drama",
+    "Price": 35.21,
+    "Title": "There's Only One Sun",
+    "Author": "Zea Fautley",
+    "AuthorId": 489,
+    "DateReleased": "12/19/1952",
+    "NumberOfPages": 109,
+    "ImageUrl": "http://dummyimage.com/221x210.bmp/5fa2dd/ffffff"
+  },
+  {
+    "Category": "Comedy",
+    "Price": 104.64,
+    "Title": "Anchorman 2: The Legend Continues",
+    "Author": "Hedi Bernardino",
+    "AuthorId": 490,
+    "DateReleased": "3/14/1739",
+    "NumberOfPages": 132,
+    "ImageUrl": "http://dummyimage.com/205x145.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 97.35,
+    "Title": "Devil's Playground",
+    "Author": "Cory MacRierie",
+    "AuthorId": 491,
+    "DateReleased": "8/10/1830",
+    "NumberOfPages": 196,
+    "ImageUrl": "http://dummyimage.com/141x234.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Drama|Thriller",
+    "Price": 87.33,
+    "Title": "Killing Auntie (Zabicie ciotki)",
+    "Author": "Hardy Kemetz",
+    "AuthorId": 492,
+    "DateReleased": "2/17/1849",
+    "NumberOfPages": 106,
+    "ImageUrl": "http://dummyimage.com/115x226.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|Romance",
+    "Price": 105.19,
+    "Title": "When a Man Loves a Woman",
+    "Author": "Ogden Firebrace",
+    "AuthorId": 493,
+    "DateReleased": "12/23/1919",
+    "NumberOfPages": 287,
+    "ImageUrl": "http://dummyimage.com/213x240.jpg/cc0000/ffffff"
+  },
+  {
+    "Category": "Crime|Film-Noir|Mystery|Thriller",
+    "Price": 60.58,
+    "Title": "Chase a Crooked Shadow",
+    "Author": "Paxton Winwood",
+    "AuthorId": 494,
+    "DateReleased": "4/8/1724",
+    "NumberOfPages": 100,
+    "ImageUrl": "http://dummyimage.com/102x157.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Documentary",
+    "Price": 128.04,
+    "Title": "Indie Game: The Movie",
+    "Author": "Lynnet Lawday",
+    "AuthorId": 495,
+    "DateReleased": "4/13/1691",
+    "NumberOfPages": 221,
+    "ImageUrl": "http://dummyimage.com/177x221.bmp/dddddd/000000"
+  },
+  {
+    "Category": "Comedy|Drama",
+    "Price": 36.3,
+    "Title": "Million Dollar Arm",
+    "Author": "Mickie Welburn",
+    "AuthorId": 496,
+    "DateReleased": "7/31/1666",
+    "NumberOfPages": 165,
+    "ImageUrl": "http://dummyimage.com/173x238.jpg/ff4444/ffffff"
+  },
+  {
+    "Category": "Comedy|Drama|Romance",
+    "Price": 91.83,
+    "Title": "Man Who Sued God, The",
+    "Author": "Crystal Ogborn",
+    "AuthorId": 497,
+    "DateReleased": "5/31/1791",
+    "NumberOfPages": 130,
+    "ImageUrl": "http://dummyimage.com/131x208.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Drama|Romance|War",
+    "Price": 76.26,
+    "Title": "Senso",
+    "Author": "Prent Wyss",
+    "AuthorId": 498,
+    "DateReleased": "5/9/1703",
+    "NumberOfPages": 155,
+    "ImageUrl": "http://dummyimage.com/164x157.bmp/cc0000/ffffff"
+  },
+  {
+    "Category": "Drama",
+    "Price": 38.62,
+    "Title": "Poetry (Shi)",
+    "Author": "Pauletta Fasler",
+    "AuthorId": 499,
+    "DateReleased": "5/12/1889",
+    "NumberOfPages": 347,
+    "ImageUrl": "http://dummyimage.com/155x171.png/ff4444/ffffff"
+  },
+  {
+    "Category": "Adventure|Comedy|Documentary|Fantasy",
+    "Price": 84.38,
+    "Title": "Introduction to Physics, An",
+    "Author": "Aldon Threlkeld",
+    "AuthorId": 500,
+    "DateReleased": "11/10/1960",
+    "NumberOfPages": 299,
+    "ImageUrl": "http://dummyimage.com/139x119.bmp/5fa2dd/ffffff"
   }
 ]

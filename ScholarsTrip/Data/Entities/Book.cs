@@ -9,11 +9,13 @@ namespace ScholarsTrip.Data.Entities
     {
         public int Id { get; set; }
         public string Category { get; set; }
-        public string Size { get; set; }
         public decimal Price { get; set; }
         public string Title { get; set; }
         public DateTime DateReleased { get; set; }
         public string Author { get; set; }
         public int AuthorId { get; set; }
+        public string ImageUrl { get; set; }
+        public string Description{ get; set; }
+        public int NumberOfPages { get; set; }
     }
 }

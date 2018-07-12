@@ -4,7 +4,6 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using ScholarsTrip.Models;
 using ScholarsTrip.ViewModels;
 
 namespace ScholarsTrip.Controllers
@@ -41,10 +40,6 @@ namespace ScholarsTrip.Controllers
 
             return View(model);
         }
-
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
+        
     }
 }

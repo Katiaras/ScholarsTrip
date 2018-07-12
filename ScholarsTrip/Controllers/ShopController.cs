@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using ScholarsTrip.Data;
 
@@ -9,17 +10,16 @@ namespace ScholarsTrip.Controllers
 {
     public class ShopController : Controller
     {
-        private ScholarsTripDbContext _context;
-        public ShopController(ScholarsTripDbContext context)
+        private readonly IScholarsTripRepository repository;
+        public ShopController(IScholarsTripRepository repository)
         {
-            this._context = context;
+            this.repository = repository;
         }
 
+        [Authorize]
         public IActionResult Index()
         {
-            var results = _context.Books
-                .OrderBy(p => p.Price)
-                .ToList();
+            var results = repository.GetAllBooks();
 
             return View(results);
         }

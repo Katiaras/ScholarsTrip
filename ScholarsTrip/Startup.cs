@@ -9,8 +9,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using ScholarsTrip.Data;
-using ScholarsTrip.Models;
 using ScholarsTrip.Services;
+using AutoMapper;
+using ScholarsTrip.Data.Entities;
 
 namespace ScholarsTrip
 {
@@ -26,19 +27,25 @@ namespace ScholarsTrip
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddIdentity<StoreUser, IdentityRole>(cfg =>
+            {
+                cfg.User.RequireUniqueEmail = true;
+            })
+            .AddEntityFrameworkStores<ScholarsTripDbContext>();
+
             services.AddDbContext<ScholarsTripDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("ScholarsTripConnectionString")));
 
-            services.AddIdentity<ApplicationUser, IdentityRole>()
-                .AddEntityFrameworkStores<ApplicationDbContext>()
-                .AddDefaultTokenProviders();
+            services.AddAutoMapper();
 
             // Add application services.
             services.AddTransient<IEmailSender, EmailSender>();
             services.AddTransient<ScholarsTripSeeder>();
-            services.AddMvc();
+
+            services.AddScoped<IScholarsTripRepository, ScholarsTripRepository>();
+
+            services.AddMvc()
+                .AddJsonOptions(opt => opt.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -72,7 +79,7 @@ namespace ScholarsTrip
                 using(var scope = app.ApplicationServices.CreateScope())
                 {
                     var seeder = scope.ServiceProvider.GetService<ScholarsTripSeeder>();
-                    seeder.Seed();
+                    seeder.Seed().Wait();
                 }
             }
         }

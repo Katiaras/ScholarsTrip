@@ -7,5 +7,11 @@ namespace ScholarsTrip.Data
     {
         IEnumerable<Book> GetAllBooks();
         IEnumerable<Book> GetBookByCategory(string category);
+
+        IEnumerable<Order> GetAllOrders(bool includeItems);
+        Order GetOrderById(int id);
+
+        bool SaveAll();
+        void AddEntity(object model);
     }
 }

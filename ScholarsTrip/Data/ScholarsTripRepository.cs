@@ -1,4 +1,5 @@
-﻿using ScholarsTrip.Data.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using ScholarsTrip.Data.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,11 +16,35 @@ namespace ScholarsTrip.Data
             this.context = context;
         }
 
+        public void AddEntity(object model)
+        {
+            context.Add(model);
+        }
+
         public IEnumerable<Book> GetAllBooks()
         {
             return context.Books
                 .OrderBy(b => b.Price)
                 .ToList();
+        }
+
+        public IEnumerable<Order> GetAllOrders(bool includeItems)
+        {
+            if (includeItems)
+            {
+                return context.Orders
+                .Include(o => o.Items)
+                .ThenInclude(i => i.Book)
+                .OrderBy(o => o.OrderDate)
+                .ToList();
+            }
+            else
+            {
+                return context.Orders
+                    .OrderBy(o => o.OrderDate)
+                    .ToList();
+            }
+            
         }
 
         public IEnumerable<Book> GetBookByCategory(string category)
@@ -29,5 +54,21 @@ namespace ScholarsTrip.Data
                 .ToList();
         }
 
+        public Order GetOrderById(int id)
+        {
+            return context.Orders
+                .Include(o => o.Items)
+                .ThenInclude(i => i.Book)
+                .OrderBy(o => o.OrderDate)
+                .Where(o=> o.Id == id)
+                .FirstOrDefault();
+        }
+
+        public bool SaveAll()
+        {
+            context.SaveChanges();
+            return true;
+
+        }
     }
 }
