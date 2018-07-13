@@ -3,7 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using ScholarsTrip.Data;
 using ScholarsTrip.Data.Entities;
@@ -13,15 +16,18 @@ namespace ScholarsTrip.Controllers.Api
 {
     [Produces("application/json")]
     [Route("api/[Controller]")]
+    [Authorize(AuthenticationSchemes =JwtBearerDefaults.AuthenticationScheme)]
     public class OrdersController : Controller
     {
         private readonly IScholarsTripRepository repository;
         private readonly IMapper mapper;
+        private readonly UserManager<StoreUser> userManager;
 
-        public OrdersController(IScholarsTripRepository repository, IMapper mapper)
+        public OrdersController(IScholarsTripRepository repository, IMapper mapper, UserManager<StoreUser> userManager)
         {
             this.repository = repository;
             this.mapper = mapper;
+            this.userManager = userManager;
         }
 
         [HttpGet]
@@ -29,7 +35,9 @@ namespace ScholarsTrip.Controllers.Api
         {
             try
             {
-                var results = repository.GetAllOrders(includeItems);
+                var username = User.Identity.Name;
+
+                var results = repository.GetAllOrdersByUser(username, includeItems);
                 return Ok(mapper.Map<IEnumerable< Order>, IEnumerable<OrderViewModel>>(results));
             }
             catch (Exception)
@@ -44,7 +52,7 @@ namespace ScholarsTrip.Controllers.Api
         {
             try
             {
-                var order = repository.GetOrderById(id);
+                var order = repository.GetOrderById(User.Identity.Name,id);
 
                 if (order != null)
                     return Ok(mapper.Map<Order, OrderViewModel>( order));
@@ -60,7 +68,7 @@ namespace ScholarsTrip.Controllers.Api
         }
 
         [HttpPost]
-        public IActionResult Post([FromBody]OrderViewModel model)
+        public async Task<IActionResult> Post([FromBody]OrderViewModel model)
         {
             //Add it to db
             try
@@ -68,10 +76,20 @@ namespace ScholarsTrip.Controllers.Api
                 if (ModelState.IsValid)
                 {
                     var newOrder = mapper.Map<OrderViewModel, Order>(model);
+                    if(newOrder.OrderDate == DateTime.MinValue)
+                    {
+                        newOrder.OrderDate = DateTime.Now;
+                    }
+
+                    var currentUser = await userManager.FindByNameAsync(User.Identity.Name);
+                    newOrder.User = currentUser;
+
+
                     repository.AddEntity(newOrder);
                     repository.SaveAll();
 
-                    return Created($"/api/order/{newOrder.Id}", model);
+
+                    return Created($"/api/order/{newOrder.Id}",mapper.Map<Order, OrderViewModel>(newOrder));
 
                 }
                 else
@@ -86,5 +104,7 @@ namespace ScholarsTrip.Controllers.Api
             }
 
         }
+
+
     }
 }

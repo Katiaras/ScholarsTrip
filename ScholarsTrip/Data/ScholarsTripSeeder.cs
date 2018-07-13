@@ -34,8 +34,8 @@ namespace ScholarsTrip.Data
                 {
                     FirstName = "Kostas",
                     LastName = "Giouzakov",
-                    UserName = "katiaras15",
-                    Email = "katiaras15@gmail"
+                    UserName = "katiaras15@gmail.com",
+                    Email = "katiaras15@gmail.com"
                 };
 
                 var result = await userManager.CreateAsync(user, "Kat!aras15");

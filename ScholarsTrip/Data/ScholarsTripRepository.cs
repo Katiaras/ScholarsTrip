@@ -47,6 +47,26 @@ namespace ScholarsTrip.Data
             
         }
 
+        public IEnumerable<Order> GetAllOrdersByUser(string username, bool includeItems)
+        {
+            if (includeItems)
+            {
+                return context.Orders
+                .Where(o=>o.User.UserName == username)
+                .Include(o => o.Items)
+                .ThenInclude(i => i.Book)
+                .OrderBy(o => o.OrderDate)
+                .ToList();
+            }
+            else
+            {
+                return context.Orders
+                    .Where(o => o.User.UserName == username)
+                    .OrderBy(o => o.OrderDate)
+                    .ToList();
+            }
+        }
+
         public IEnumerable<Book> GetBookByCategory(string category)
         {
             return context.Books
@@ -54,13 +74,13 @@ namespace ScholarsTrip.Data
                 .ToList();
         }
 
-        public Order GetOrderById(int id)
+        public Order GetOrderById(string username, int id)
         {
             return context.Orders
                 .Include(o => o.Items)
                 .ThenInclude(i => i.Book)
                 .OrderBy(o => o.OrderDate)
-                .Where(o=> o.Id == id)
+                .Where(o=> o.Id == id && o.User.UserName == username)
                 .FirstOrDefault();
         }
 

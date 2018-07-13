@@ -12,14 +12,20 @@ using ScholarsTrip.Data;
 using ScholarsTrip.Services;
 using AutoMapper;
 using ScholarsTrip.Data.Entities;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 namespace ScholarsTrip
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
+        private readonly IHostingEnvironment env;
+
+        public Startup(IConfiguration configuration, IHostingEnvironment env)
         {
             Configuration = configuration;
+            this.env = env;
         }
 
         public IConfiguration Configuration { get; }
@@ -33,6 +39,18 @@ namespace ScholarsTrip
             })
             .AddEntityFrameworkStores<ScholarsTripDbContext>();
 
+            services.AddAuthentication()
+                .AddCookie()
+                .AddJwtBearer(cfg =>
+                {
+                    cfg.TokenValidationParameters = new TokenValidationParameters()
+                    {
+                        ValidIssuer = Configuration["Tokens:Issuer"],
+                        ValidAudience = Configuration["Tokens:Audience"],
+                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Tokens:key"]))
+                    };
+                });
+
             services.AddDbContext<ScholarsTripDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("ScholarsTripConnectionString")));
 
@@ -44,7 +62,13 @@ namespace ScholarsTrip
 
             services.AddScoped<IScholarsTripRepository, ScholarsTripRepository>();
 
-            services.AddMvc()
+            services.AddMvc(opt =>
+            {
+                if (env.IsProduction())
+                {
+                    opt.Filters.Add(new RequireHttpsAttribute());
+                }
+            })
                 .AddJsonOptions(opt => opt.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
         }
 

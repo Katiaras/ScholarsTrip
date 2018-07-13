@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ScholarsTrip.Data;
@@ -13,6 +15,7 @@ namespace ScholarsTrip.Controllers.Api
 {
     [Produces("application/json")]
     [Route("api/orders/{orderid}/items")]
+    [Authorize(AuthenticationSchemes =JwtBearerDefaults.AuthenticationScheme)]
     public class OrderItemsController : Controller
     {
         private readonly IScholarsTripRepository repository;
@@ -28,7 +31,7 @@ namespace ScholarsTrip.Controllers.Api
         [HttpGet]
         public IActionResult Get(int orderId)
         {
-            var order = repository.GetOrderById(orderId);
+            var order = repository.GetOrderById(User.Identity.Name, orderId);
             if (order != null)
             {
                 return Ok(mapper.Map<IEnumerable<OrderItem>, IEnumerable<OrderItemViewModel>>(order.Items));
@@ -42,7 +45,7 @@ namespace ScholarsTrip.Controllers.Api
         [HttpGet("{Id}")]
         public IActionResult Get(int orderId, int Id)
         {
-            var order = repository.GetOrderById(orderId);
+            var order = repository.GetOrderById(User.Identity.Name,orderId);
             if (order != null)
             {
                 var item = order.Items.Where(i => i.Id == Id).SingleOrDefault();
